@@ -9,7 +9,6 @@ tsconfig.json
 test.svg
 package.json
 
-
 # Logs
 logs
 *.log
