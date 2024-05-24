@@ -59,23 +59,3 @@ jobs:
           echo PROGRAMMERS_TOKEN_PW=${{ secrets.PROGRAMMERS_TOKEN_PW }} >> .env
           npm run start
 
-  update-readme:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Fetch result.svg and update README
-        run: |
-          mkdir -p temp
-          curl -sSL -o temp/result.svg https://github.com/jeus1998/Algorithm/blob/main/lib/result.svg
-          sed -i 's~!\[.*\](https://github.com/jeus1998/Algorithm/blob/main/lib/result.svg)~[![Result](temp/result.svg)](https://github.com/jeus1998/Algorithm)~' README.md
-          rm -rf temp
-
-      - name: Commit and push changes
-        run: |
-          git config --global user.email "baejeu@example.com"
-          git config --global user.name "jeus1998"
-          git add README.md
-          git commit -m "Update README with latest result.svg"
-          git push
