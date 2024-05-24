@@ -36,7 +36,7 @@ jobs:
         env:
           PROGRAMMERS_TOKEN_ID: ${{ secrets.PROGRAMMERS_TOKEN_ID }}
           PROGRAMMERS_TOKEN_PW: ${{ secrets.PROGRAMMERS_TOKEN_PW }}
-          GITHUB_TOKEN: ${{ secrets.TOKEN }} # 수정된 부분
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
   cron:
     runs-on: ubuntu-latest
 
