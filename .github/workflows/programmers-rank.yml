@@ -1,6 +1,3 @@
-# This workflow will do a clean installation of node dependencies, cache/restore them, build the source code and run tests across different versions of node
-# For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-nodejs
-# again
 name: github-programmers-rank
 
 on:
@@ -17,20 +14,19 @@ jobs:
 
     strategy:
       matrix:
-        node-version: [v21.7.3]
+        node-version: [20.x]
         # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
 
     steps:
     - uses: actions/checkout@v3
-    - name: Use Node.js ${{ matrix.node-version }}
+    - name: Set up Node.js ${{ matrix.node-version }}
       uses: actions/setup-node@v3
-      env: 
-        PROGRAMMERS_TOKEN_ID: ${{ secrets.PROGRAMMERS_TOKEN_ID }}
-        PROGRAMMERS_TOKEN_PW: ${{ secrets.PROGRAMMERS_TOKEN_PW }}
       with:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
-    - run:  echo ${{ secrets.PROGRAMMERS_TOKEN_ID }}
+    - run: echo ${{ secrets.PROGRAMMERS_TOKEN_ID }}
+      env:
+        PROGRAMMERS_TOKEN_ID: ${{ secrets.PROGRAMMERS_TOKEN_ID }}
     - run: npm install
     - run: npm run build
     - run: |
@@ -38,26 +34,28 @@ jobs:
         echo PROGRAMMERS_TOKEN_ID=${{ secrets.PROGRAMMERS_TOKEN_ID }} >> .env
         echo PROGRAMMERS_TOKEN_PW=${{ secrets.PROGRAMMERS_TOKEN_PW }} >> .env
         npm run start
+      env:
+        PROGRAMMERS_TOKEN_ID: ${{ secrets.PROGRAMMERS_TOKEN_ID }}
+        PROGRAMMERS_TOKEN_PW: ${{ secrets.PROGRAMMERS_TOKEN_PW }}
 
   cron:
     runs-on: ubuntu-latest
 
     strategy:
       matrix:
-        node-version: [v21.7.3]
+        node-version: [20.x]
         # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
 
     steps:
     - uses: actions/checkout@v3
-    - name: Use Node.js ${{ matrix.node-version }}
+    - name: Set up Node.js ${{ matrix.node-version }}
       uses: actions/setup-node@v3
-      env: 
-        PROGRAMMERS_TOKEN_ID: ${{ secrets.PROGRAMMERS_TOKEN_ID }}
-        PROGRAMMERS_TOKEN_PW: ${{ secrets.PROGRAMMERS_TOKEN_PW }}
       with:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
-    - run:  echo ${{ secrets.PROGRAMMERS_TOKEN_ID }}
+    - run: echo ${{ secrets.PROGRAMMERS_TOKEN_ID }}
+      env:
+        PROGRAMMERS_TOKEN_ID: ${{ secrets.PROGRAMMERS_TOKEN_ID }}
     - run: npm install
     - run: npm run build
     - run: |
@@ -65,23 +63,21 @@ jobs:
         echo PROGRAMMERS_TOKEN_ID=${{ secrets.PROGRAMMERS_TOKEN_ID }} >> .env
         echo PROGRAMMERS_TOKEN_PW=${{ secrets.PROGRAMMERS_TOKEN_PW }} >> .env
         npm run start
-        
+      env:
+        PROGRAMMERS_TOKEN_ID: ${{ secrets.PROGRAMMERS_TOKEN_ID }}
+        PROGRAMMERS_TOKEN_PW: ${{ secrets.PROGRAMMERS_TOKEN_PW }}
+
+  # Uncomment and configure the following if you need a separate lint job
   # lint:
   #   name: Lint
-
   #   runs-on: ubuntu-latest
-
   #   strategy:
   #     matrix:
   #       node-version: [20.x]
-
   #   steps:
   #   - uses: actions/checkout@v3
-  #   - name: Use Node.js ${{ matrix.node-version }}
+  #   - name: Set up Node.js ${{ matrix.node-version }}
   #     uses: actions/setup-node@v3
-  #     env: 
-  #       PROGRAMMERS_TOKEN_ID: ${{ secrets.PROGRAMMERS_TOKEN_ID }}
-  #       PROGRAMMERS_TOKEN_PW: ${{ secrets.PROGRAMMERS_TOKEN_PW }}
   #     with:
   #       node-version: ${{ matrix.node-version }}
   #       cache: 'npm'
