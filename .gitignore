@@ -1,9 +1,7 @@
 .gitignore
-.github
 .eslintrc.json
 .prettierrc.json
 package-lock.json
-킹받네 (2).svg
 .idea
 tsconfig.json
 test.svg
