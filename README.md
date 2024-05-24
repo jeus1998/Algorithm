@@ -3,7 +3,7 @@
 <br>
 
 ## 🧑‍🎓 배제우 Programmers (by Junho KIM)
-[![](https://github.com/jeus1998/Algorithm/blob/main/lib/result.svg)](https://github.com/jeus1998/Algorithm)
+[![Result](temp/result.svg)](https://github.com/jeus1998/Algorithm)
 
 <br>
 
