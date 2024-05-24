@@ -74,8 +74,8 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config --global "baejeu@naver.com"
-          git config --global "baejeu"
+          git config --global user.email "baejeu@naver.com"
+          git config --global user.name "jeus1998"
           git add README.md
           git commit -m "Update README with latest result.svg"
           git push
