@@ -20,6 +20,9 @@ jobs:
       - uses: actions/checkout@v3
       - name: Use Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v3
+        env:
+          PROGRAMMERS_TOKEN_ID: ${{ secrets.PROGRAMMERS_TOKEN_ID }}
+          PROGRAMMERS_TOKEN_PW: ${{ secrets.PROGRAMMERS_TOKEN_PW }}
         with:
           node-version: ${{ matrix.node-version }}
           cache: 'npm'
@@ -42,6 +45,9 @@ jobs:
       - uses: actions/checkout@v3
       - name: Use Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v3
+        env:
+          PROGRAMMERS_TOKEN_ID: ${{ secrets.PROGRAMMERS_TOKEN_ID }}
+          PROGRAMMERS_TOKEN_PW: ${{ secrets.PROGRAMMERS_TOKEN_PW }}
         with:
           node-version: ${{ matrix.node-version }}
           cache: 'npm'
@@ -53,24 +59,3 @@ jobs:
           echo PROGRAMMERS_TOKEN_PW=${{ secrets.PROGRAMMERS_TOKEN_PW }} >> .env
           npm run start
 
-  readme-action:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Update README
-        uses: actions/checkout@v3
-
-      - name: Set up Git
-        run: |
-          git config user.name "jeus1998"
-          git config user.email "jeus1998@github.com"
-          sed -i 's|## 🧑‍🎓 배제우 Programmers (by Junho KIM)|## 🧑‍🎓 배제우 Programmers (by Junho KIM) \[Last updated: $(date +"%Y-%m-%d %H:%M:%S")\]|' README.md
-
-      - name: Commit and push changes
-        run: |
-          git config --local user.email "jeus1998@github.com"
-          git config --local user.name "jeus1998"
-          git commit -am "Update README with latest result.svg and timestamp"
-          git push
-  
-  
