@@ -1,13 +1,13 @@
-package boj.BarkingDog_Collection.TopologicalSorting;
-
+package boj.BarkingDog_Collection.TopologicalSorting.BOJ21276_Collection;
 /**
  * 계보 복원가 호석 골드3
  * Topological Sorting
- * 시간초과 발생 코드 -> 레벨 구하는 알고리즘을 위상 정렬과 동시에 진행하고 bfs를 통해서 child를 채우면 통과할듯하다.
+ * BOJ21276_TimeOut 시간복잡도 개선 코드 -> 간선이 1개인 경우 바로 직속 자식이다!!!!
+ * -> 11/19 부분 성공
  */
 import java.io.*;
 import java.util.*;
-public class BOJ21276_TimeOut {
+public class BOJ21276_2_PartialSuccess {
     public static void main(String[] args) throws IOException{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st;
@@ -29,12 +29,10 @@ public class BOJ21276_TimeOut {
 
         // 그래프, child 초기화
         ArrayList<Integer>[] graph = new ArrayList[n];
-        ArrayList<Integer>[] reverseGraph = new ArrayList[n];
         ArrayList<String>[] child = new ArrayList[n]; // 자식들을 저장한다.
         for (int i = 0; i < n; i++) {
             graph[i] = new ArrayList<>();
             child[i] = new ArrayList<>();
-            reverseGraph[i] = new ArrayList<>();
         }
 
         int [] indegree = new int[n];
@@ -49,7 +47,6 @@ public class BOJ21276_TimeOut {
             int idx2 = map2.get(name2);
 
             graph[idx1].add(idx2);
-            reverseGraph[idx2].add(idx1);
             indegree[idx2]++;
         }
 
@@ -68,48 +65,18 @@ public class BOJ21276_TimeOut {
                 ancestor.add(map1.get(cur));
                 continue;
             }
-
-            for (int i = 0; i < graph[cur].size(); i++) {
+            int size = graph[cur].size();
+            for (int i = 0; i < size; i++) {
                 int next = graph[cur].get(i);
                 indegree[next]--;
                 if(indegree[next] == 0){
                     q.add(next);
+                    if(size > 1){
+                        child[next].add(map1.get(cur));
+                    }
                 }
-            }
-        }
-
-        // 레벨 구하기
-        int [] depth = new int[n]; // level 기록용
-        Queue<int[]> queue = new LinkedList<>();
-        for (int i = 0; i < ancestor.size(); i++) {
-            int idx = map2.get(ancestor.get(i));
-            depth[idx] = 0;
-            queue.add(new int[]{idx, 0});
-        }
-
-        while (!queue.isEmpty()){
-            int [] temp = queue.poll();
-            for (int i = 0; i < reverseGraph[temp[0]].size(); i++) {
-                int next = reverseGraph[temp[0]].get(i);
-                if(depth[next] >= temp[1] + 1) continue;
-                depth[next] = temp[1] + 1;
-                queue.add(new int[]{next, temp[1] + 1});
-            }
-        }
-
-        // 바로 직속 자식을 구하기 위한 bfs
-        for (int i = 0; i < ancestor.size(); i++) {
-            int idx = map2.get(ancestor.get(i));
-            q.add(idx);
-        }
-
-        while (!q.isEmpty()){
-            int cur = q.poll();
-            for (int i = 0; i < reverseGraph[cur].size(); i++) {
-                int next = reverseGraph[cur].get(i);
-                if(depth[next] - depth[cur] == 1){
-                    child[cur].add(map1.get(next));
-                    q.add(next);
+                if(size == 1){
+                    child[next].add(map1.get(cur));
                 }
             }
         }
