@@ -63,7 +63,6 @@ public class BOJ2887 {
             pq.add(new int[]{list.get(i)[0], list.get(i+1)[0], min});
         }
     }
-
     public static int find(int x){
         if(parent[x] == x) return x;
         return parent[x] = find(parent[x]);
