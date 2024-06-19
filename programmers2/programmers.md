@@ -16,5 +16,12 @@
 
 ### LEVEL3
 
+- 주사위 고르기 
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/258709)
+  - 2024 KAKAO WINTER INTERNSHIP
+  - 완료한 사람: 1,238명	정답률: 17%
+  - 2024년 06월 19일 02:00PM ~ 03:47PM
+  - 문제 유형: 완전 탐색, 이분 탐색 
+  - [문제 설명](https://20240228.tistory.com/106)
 
 ### LEVEL4
