@@ -36,5 +36,13 @@
   - 2024년 06월 22일 12:00PM ~ 01:10PM
   - 문제 유형: 완전 탐색, 시뮬레이션 
   - [문제 설명](https://20240228.tistory.com/108)
+- n+1 카드게임 
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/258707)
+  - 2024 KAKAO WINTER INTERNSHIP
+  - 완료한 사람: 889명  정답률: 17%
+  - 2024년 06월 20일 11:00AM ~ 02:00PM + 06월 23일 11:00AM ~ 02:25PM 
+  - 문제 유형: 그리디 + 구현 
+  - [문제 설명](https://20240228.tistory.com/109)
+  
 
 ### LEVEL4
