@@ -19,6 +19,12 @@
   - 2024년 06월 21일 02:45PM ~ 03:10PM
   - 문제 유형: BFS + 구현 
   - [문제 설명](https://20240228.tistory.com/107)
+- 광물 캐기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/172927)
+  - 완료한 사람: 5,900명	정답률: 43%
+  - 2024년 06월 24일 11:00AM ~ 11:20AM
+  - 문제 유형: 백트래킹, 구현 + (그리디도 가능)
+  - [문제 설명](https://20240228.tistory.com/110)
 
 ### LEVEL3
 
