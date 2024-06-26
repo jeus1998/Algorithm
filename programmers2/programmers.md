@@ -31,6 +31,12 @@
   - 2024년 06월 25일 11:50PM ~ 11:58PM
   - 문제 유형: 투포인터 
   - [문제 설명](https://20240228.tistory.com/111)
+- 요격 시스템
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181188)
+  - 완료한 사람: 8,904명  정답률: 37%
+  - 2024년 06월 26일 01:45PM ~ 02:05PM
+  - 문제 유형: 그리디 정렬 
+  - [문제 설명](https://20240228.tistory.com/112)
 
 ### LEVEL3
 
