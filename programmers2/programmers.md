@@ -41,6 +41,7 @@
   - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/176962)
   - 완료한 사람: 5,400명  정답률: 39%
   - 문제 유형: 스택/큐, 정렬 
+  - 2024년 06월 27일 10:30AM ~ 10:55PM
   - [문제 설명](https://20240228.tistory.com/113)
 
 ### LEVEL3
