@@ -43,6 +43,12 @@
   - 문제 유형: 스택/큐, 정렬 
   - 2024년 06월 27일 10:30AM ~ 10:55PM
   - [문제 설명](https://20240228.tistory.com/113)
+- 리코쳇 로봇
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/169199)
+  - 완료한 사람: 5,122명  정답률: 46%
+  - 문제 유형: BFS
+  - 2024년 06월 27일 08:20PM ~ 08:39PM
+  - [문제 설명](https://20240228.tistory.com/114)
 
 ### LEVEL3
 
