@@ -49,6 +49,13 @@
   - 문제 유형: BFS
   - 2024년 06월 27일 08:20PM ~ 08:39PM
   - [문제 설명](https://20240228.tistory.com/114)
+- 택배 배달과 수거하기  
+  - 2023 KAKAO BLIND RECRUITMENT
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/150369)
+  - 완료한 사람: 6,437명	정답률: 33%
+  - 문제 유형: BFS
+  - 2024년 07월 07일 08:40PM ~ 09:05PM
+  - [문제 설명](https://20240228.tistory.com/115)
 
 ### LEVEL3
 
