@@ -75,6 +75,12 @@
   - 문제 유형: 정렬 
   - 2024년 07월 13일 09:40PM ~ 10:02PM
   - [문제 설명](https://20240228.tistory.com/118)
+- 연속 부분 수열 합의 개수
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/131701)
+  - 완료한 사람: 11,185명	정답률: 68%
+  - 문제 유형: 누적합 
+  - 2024년 07월 18일 03:20PM ~ 03:45PM
+  - [문제 설명](https://20240228.tistory.com/120)
 
 ### LEVEL3
 
