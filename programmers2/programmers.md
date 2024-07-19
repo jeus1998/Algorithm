@@ -81,6 +81,13 @@
   - 문제 유형: 누적합 
   - 2024년 07월 18일 03:20PM ~ 03:45PM
   - [문제 설명](https://20240228.tistory.com/120)
+- 혼자 놀기의 달인
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/131130)
+  - 완료한 사람: 4,688명  정답률: 38%
+  - 문제 유형: 구현
+  - 2024년 07월 19일 12:45PM ~ 01:00PM
+  - [문제 설명](https://20240228.tistory.com/121)
+  
 
 ### LEVEL3
 
