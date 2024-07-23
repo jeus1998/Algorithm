@@ -87,7 +87,13 @@
   - 문제 유형: 구현
   - 2024년 07월 19일 12:45PM ~ 01:00PM
   - [문제 설명](https://20240228.tistory.com/121)
-  
+- 두 큐 합 같게 만들기 
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/118667)
+  - 2022 KAKAO TECH INTERNSHIP 
+  - 완료한 사람: 12,181명	정답률: 53%
+  - 2024년 07월 23일 01:30PM ~ 01:58PM
+  - 문제 유형: 큐, 구현 
+  - [문제 설명](https://20240228.tistory.com/122)  
 
 ### LEVEL3
 
