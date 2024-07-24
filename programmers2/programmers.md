@@ -94,6 +94,13 @@
   - 2024년 07월 23일 01:30PM ~ 01:58PM
   - 문제 유형: 큐, 구현 
   - [문제 설명](https://20240228.tistory.com/122)  
+- 양궁대회
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/92342)
+  - 2022 KAKAO TECH INTERNSHIP 
+  - 완료한 사람: 7,699명	정답률: 35%
+  - 2024년 07월 24일 12:30PM ~ 01:10PM
+  - 문제 유형: 백트래킹(재귀)
+  - [문제 설명](https://20240228.tistory.com/123)  
 
 ### LEVEL3
 
