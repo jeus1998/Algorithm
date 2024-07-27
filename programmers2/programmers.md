@@ -101,6 +101,13 @@
   - 2024년 07월 24일 12:30PM ~ 01:10PM
   - 문제 유형: 백트래킹(재귀)
   - [문제 설명](https://20240228.tistory.com/123)  
+- 순위 검색 
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/72412)
+  - 2021 KAKAO BLIND RECRUITMENT 
+  - 완료한 사람: 9,096명	정답률: 34%
+  - 2024년 07월 27일 02:00PM ~ 02:50PM
+  - 문제 유형: 이분탐색, 백트래킹 
+  - [문제 설명](https://20240228.tistory.com/124)  
 
 ### LEVEL3
 
