@@ -121,6 +121,13 @@
   - 문제 유형: 구현
   - 2024년 07월 29일 11:00AM ~ 11:22AM
   - [문제 설명](https://20240228.tistory.com/126)
+- 메뉴 리뉴얼
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/72411)
+  - 2021 KAKAO BLIND RECRUITMENT 
+  - 완료한 사람: 16,017명	정답률: 50%
+  - 2024년 08월 01일 02:00PM ~ 03:04PM
+  - 문제 유형: 구현
+  - 티스토리 업데이트 8월 2일 예정 
 
 ### LEVEL3
 
