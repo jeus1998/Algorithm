@@ -6,7 +6,9 @@
 <br>
 
 ### Programmers 문제 설명(티스토리 링크)
-[프로그래머스2~4](https://github.com/jeus1998/Algorithm/blob/main/programmers2/programmers.md)
+[프로그래머스 2~4](https://github.com/jeus1998/Algorithm/blob/main/programmers2/programmers.md)
+
+[프로그래머스SQL 1~4](https://github.com/jeus1998/Algorithm/blob/main/programmersSQL/programmersSQL.md)
 
 ## 배제우 Baekjoon Online Judge
 
