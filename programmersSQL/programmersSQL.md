@@ -30,7 +30,7 @@
 - 잡은 물고기 중 가장 큰 물고기의 길이 구하기
   - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/298515)
   - SUM, MAX, MIN 
-  - 완료한 사람: 3,632명 정답률: 78%
+  - 완료한 사람: 4,718명 정답률: 80%
   - 2024년 08월 27일 06:45PM ~ 06:47PM
   - 문제 유형: SELECT, MAX, CONCAT
   - [문제 설명](https://20240228.tistory.com/152)
