@@ -13,4 +13,12 @@
   - 2024년 08월 26일 06:00PM ~ 06:36PM
   - 문제 유형: 비트 연산, SUBSTRING(), BIN(), LENGTH()
   - [문제 설명](https://20240228.tistory.com/148)
+- 가장 큰 물고기 10마리 구하기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/298517)
+  - SELECT 
+  - 완료한 사람: 5,301명 정답률: 67%
+  - 2024년 08월 27일 12:20PM ~ 12:25PM
+  - 문제 유형: 정렬 Order By
+  - [문제 설명](https://20240228.tistory.com/150)
 
+### LEVEL2
