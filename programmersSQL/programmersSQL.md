@@ -20,5 +20,12 @@
   - 2024년 08월 27일 12:20PM ~ 12:25PM
   - 문제 유형: 정렬 Order By
   - [문제 설명](https://20240228.tistory.com/150)
+- 한 해에 잡은 물고기 수 구하기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/298516)
+  - STRING, DATE
+  - 완료한 사람: 3,632명 정답률: 78%
+  - 2024년 08월 27일 12:40PM ~ 12:45PM
+  - 문제 유형: SELECT(STRING, DATE) 
+  - [문제 설명](https://20240228.tistory.com/151)
 
 ### LEVEL2
