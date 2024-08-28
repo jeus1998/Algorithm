@@ -41,5 +41,12 @@
   - 2024년 08월 28일 02:30PM ~ 02:45PM
   - 문제 유형: SELECT 
   - [문제 설명](https://20240228.tistory.com/154)
+- 잔챙이 잡은 수 구하기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/293258)
+  - SELECT 
+  - 완료한 사람: 4,767명 정답률: 80%
+  - 2024년 08월 28일 02:45PM ~ 02:50PM
+  - 문제 유형: SELECT 
+  - [문제 설명](https://20240228.tistory.com/155)
 
 ### LEVEL2
