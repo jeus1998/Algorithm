@@ -74,7 +74,7 @@
   - String, Date 
   - 완료한 사람: 14,143명 정답률: 75%
   - 2024년 08월 28일 08:25PM ~ 08:47PM
-  - 문제 유형: DATEDIFF, DATE_FORMAT, WHEN CASE THEN ELSE 
+  - 문제 유형: DATEDIFF: 날짜 차이 계산, DATE_FORMAT, WHEN CASE THEN ELSE 
   - [문제 설명](https://20240228.tistory.com/159)
 
 
