@@ -62,6 +62,13 @@
   - 2024년 08월 28일 03:20PM ~ 03:40PM
   - 문제 유형: DATE_FORMAT, BETWEEN AND 
   - [문제 설명](https://20240228.tistory.com/157)
+- 특정 옵션이 포함된 자동차 리스트 구하기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/157343)
+  - String, Date 
+  - 완료한 사람: 16,274명 정답률: 81%
+  - 2024년 08월 28일 08:19PM ~ 08:23PM
+  - 문제 유형: LIKE 
+  - [문제 설명](https://20240228.tistory.com/158)
 
 
 ### LEVEL2
