@@ -48,5 +48,12 @@
   - 2024년 08월 28일 02:45PM ~ 02:50PM
   - 문제 유형: SELECT 
   - [문제 설명](https://20240228.tistory.com/155)
+- Python 개발자 찾기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/293258)
+  - SELECT 
+  - 완료한 사람: 5,959명 정답률: 79%
+  - 2024년 08월 28일 03:00PM ~ 03:13PM
+  - 문제 유형: SELECT 
+  - [문제 설명](https://20240228.tistory.com/156)
 
 ### LEVEL2
