@@ -54,6 +54,14 @@
   - 완료한 사람: 5,959명 정답률: 79%
   - 2024년 08월 28일 03:00PM ~ 03:13PM
   - 문제 유형: SELECT 
-  - [문제 설명](https://20240228.tistory.com/156)
+  - [문제 설명](https://20240228.tistory.com/156
+- 조건에 부합하는 중고거래 댓글 조회하기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/164673)
+  - SELECT 
+  - 완료한 사람: 22,544명 정답률: 66%
+  - 2024년 08월 28일 03:20PM ~ 03:40PM
+  - 문제 유형: DATE_FORMAT, BETWEEN AND 
+  - [문제 설명](https://20240228.tistory.com/157)
+
 
 ### LEVEL2
