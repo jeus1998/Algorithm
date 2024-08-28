@@ -34,5 +34,12 @@
   - 2024년 08월 27일 06:45PM ~ 06:47PM
   - 문제 유형: SELECT, MAX, CONCAT
   - [문제 설명](https://20240228.tistory.com/152)
+- 잡은 물고기의 평균 길이 구하기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/293259)
+  - IS NULL 
+  - 완료한 사람: 3,819명 정답률: 75%
+  - 2024년 08월 28일 02:30PM ~ 02:45PM
+  - 문제 유형: SELECT 
+  - [문제 설명](https://20240228.tistory.com/154)
 
 ### LEVEL2
