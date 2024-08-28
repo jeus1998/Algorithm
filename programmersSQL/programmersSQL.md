@@ -69,6 +69,13 @@
   - 2024년 08월 28일 08:19PM ~ 08:23PM
   - 문제 유형: LIKE 
   - [문제 설명](https://20240228.tistory.com/158)
+- 자동차 대여 기록에서 장기/단기 대여 구분하기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/151138)
+  - String, Date 
+  - 완료한 사람: 14,143명 정답률: 75%
+  - 2024년 08월 28일 08:25PM ~ 08:47PM
+  - 문제 유형: DATEDIFF, DATE_FORMAT, WHEN CASE THEN ELSE 
+  - [문제 설명](https://20240228.tistory.com/159)
 
 
 ### LEVEL2
