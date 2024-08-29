@@ -76,6 +76,14 @@
   - 2024년 08월 28일 08:25PM ~ 08:47PM
   - 문제 유형: DATEDIFF: 날짜 차이 계산, DATE_FORMAT, WHEN CASE THEN ELSE 
   - [문제 설명](https://20240228.tistory.com/159)
+- 평균 일일 대여 요금 구하기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/151136)
+  - SELECT
+  - 완료한 사람: 26,869명 정답률: 83%
+  - 2024년 08월 29일 07:01PM ~ 07:06PM
+  - 문제 유형: ROUND(), AVG()
+  - [문제 설명](https://20240228.tistory.com/161)
+
 
 
 ### LEVEL2
