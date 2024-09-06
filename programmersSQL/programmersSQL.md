@@ -195,5 +195,12 @@
   - 2024년 09월 7일 12:30AM ~ 12:32AM
   - 문제 유형: SELECT, ORDER BY
   - [문제 설명](https://20240228.tistory.com/189)
+- 어린 동물 찾기 
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/59037)
+  - SELECT
+  - 완료한 사람: 75,192명 정답률: 91%
+  - 2024년 09월 7일 12:35AM ~ 12:38AM
+  - 문제 유형: SELECT, NOT IN
+  - [문제 설명](https://20240228.tistory.com/190)
 
 ### LEVEL2
