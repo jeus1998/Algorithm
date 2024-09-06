@@ -90,6 +90,13 @@
   - 2024년 09월 6일 04:50PM ~ 04:52PM
   - 문제 유형: SELECT + DATE_FORMAT
   - [문제 설명](https://20240228.tistory.com/174)
+- 과일로 만든 아이스크림 고르기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/133025)
+  - SELECT
+  - 완료한 사람: 24,941명 정답률: 83%
+  - 2024년 09월 6일 05:00PM ~ 05:13PM
+  - 문제 유형: SELECT + INNER JOIN
+  - [문제 설명](https://20240228.tistory.com/175)
 
 
 ### LEVEL2
