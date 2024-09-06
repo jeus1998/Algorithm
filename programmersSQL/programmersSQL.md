@@ -209,5 +209,14 @@
   - 2024년 09월 7일 12:40AM ~ 12:42AM
   - 문제 유형: SELECT 
   - [문제 설명](https://20240228.tistory.com/191)
+- 역순 정렬하기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/59035)
+  - SELECT
+  - 완료한 사람: 78,106명 정답률: 91%
+  - 2024년 09월 7일 12:45AM ~ 12:46AM
+  - 문제 유형: SELECT, ORDER BY
+  - [문제 설명](https://20240228.tistory.com/192)
+
+
 
 ### LEVEL2
