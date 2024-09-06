@@ -132,5 +132,12 @@
   - 2024년 09월 6일 06:10PM ~ 06:15PM
   - 문제 유형: SELECT, BETWEEN AND
   - [문제 설명](https://20240228.tistory.com/180)
+- 나이 정보가 없는 회원 수 구하기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/131528)
+  - IS NULL 
+  - 완료한 사람: 22,860명 정답률: 91%
+  - 2024년 09월 6일 06:20PM ~ 06:21PM
+  - 문제 유형: SELECT , COUNT, IS NULL 
+  - [문제 설명](https://20240228.tistory.com/181)
 
 ### LEVEL2
