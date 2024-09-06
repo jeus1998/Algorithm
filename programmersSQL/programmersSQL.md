@@ -167,6 +167,12 @@
   - 2024년 09월 6일 07:20PM ~ 07:25PM
   - 문제 유형: SELECT, ORDER BY
   - [문제 설명](https://20240228.tistory.com/185)
-
+- 상위 n개 레코드
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/59405)
+  - SELECT
+  - 완료한 사람: 68,944명 정답률: 91%
+  - 2024년 09월 6일 07:34PM ~ 07:38PM
+  - 문제 유형: SELECT, ORDER BY, LIMIT
+  - [문제 설명](https://20240228.tistory.com/186)
 
 ### LEVEL2
