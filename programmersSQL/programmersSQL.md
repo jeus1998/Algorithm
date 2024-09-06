@@ -181,6 +181,12 @@
   - 2024년 09월 6일 07:40PM ~ 07:45PM
   - 문제 유형: SELECT, ORDER BY
   - [문제 설명](https://20240228.tistory.com/187)
-
+- 동물의 아이디와 이름
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/59403)
+  - SELECT
+  - 완료한 사람: 72,118명 정답률: 91%
+  - 2024년 09월 6일 07:40PM ~ 07:45PM
+  - 문제 유형: SELECT, ORDER BY
+  - [문제 설명](https://20240228.tistory.com/188)
 
 ### LEVEL2
