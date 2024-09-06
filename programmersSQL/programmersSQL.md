@@ -153,5 +153,12 @@
   - 2024년 09월 6일 06:50PM ~ 06:57PM
   - 문제 유형: SELECT, ORDER BY, LIKE
   - [문제 설명](https://20240228.tistory.com/183)
+- 최댓값 구하기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/59415)
+  - SUM, MAX, MIN
+  - 완료한 사람: 70,878명 정답률: 79%
+  - 2024년 09월 6일 07:00PM ~ 07:10PM
+  - 문제 유형: SELECT, MAX, ORDER BY, LIMIT
+  - [문제 설명](https://20240228.tistory.com/184)
 
 ### LEVEL2
