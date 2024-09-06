@@ -160,5 +160,13 @@
   - 2024년 09월 6일 07:00PM ~ 07:10PM
   - 문제 유형: SELECT, MAX, ORDER BY, LIMIT
   - [문제 설명](https://20240228.tistory.com/184)
+- 이름이 있는 동물의 아이디
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/59407)
+  - IS NULL
+  - 완료한 사람: 55,089명 정답률: 91%
+  - 2024년 09월 6일 07:20PM ~ 07:25PM
+  - 문제 유형: SELECT, ORDER BY
+  - [문제 설명](https://20240228.tistory.com/185)
+
 
 ### LEVEL2
