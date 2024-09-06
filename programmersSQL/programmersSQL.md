@@ -83,7 +83,13 @@
   - 2024년 08월 29일 07:01PM ~ 07:06PM
   - 문제 유형: ROUND(), AVG()
   - [문제 설명](https://20240228.tistory.com/161)
-
+- 조건에 맞는 도서 리스트 출력하기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/144853)
+  - SELECT
+  - 완료한 사람: 24,956명 정답률: 84%
+  - 2024년 09월 6일 04:50PM ~ 04:52PM
+  - 문제 유형: SELECT + DATE_FORMAT
+  - [문제 설명](https://20240228.tistory.com/174)
 
 
 ### LEVEL2
