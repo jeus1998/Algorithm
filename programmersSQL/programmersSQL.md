@@ -174,5 +174,13 @@
   - 2024년 09월 6일 07:34PM ~ 07:38PM
   - 문제 유형: SELECT, ORDER BY, LIMIT
   - [문제 설명](https://20240228.tistory.com/186)
+- 여러 기준으로 정렬하기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/59404)
+  - SELECT
+  - 완료한 사람: 69,752명 정답률: 91%
+  - 2024년 09월 6일 07:40PM ~ 07:45PM
+  - 문제 유형: SELECT, ORDER BY
+  - [문제 설명](https://20240228.tistory.com/187)
+
 
 ### LEVEL2
