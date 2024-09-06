@@ -118,6 +118,12 @@
   - 2024년 09월 6일 05:45PM ~ 05:50PM
   - 문제 유형: SELECT + ORDER BY + CASE WHEN THEN 
   - [문제 설명](https://20240228.tistory.com/178)
-
+- 가장 비싼 상품 구하기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/131697)
+  - SUM, MAX, MIN 
+  - 완료한 사람: 27,788명 정답률: 91%
+  - 2024년 09월 6일 06:00PM ~ 06:01PM
+  - 문제 유형: MAX
+  - [문제 설명](https://20240228.tistory.com/179)
 
 ### LEVEL2
