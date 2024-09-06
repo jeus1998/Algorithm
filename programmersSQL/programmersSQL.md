@@ -226,3 +226,11 @@
 
 
 ### LEVEL2
+
+- 부모의 형질을 모두 가지는 대장균 찾기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/301647)
+  - SELECT
+  - 완료한 사람: 2,264명 정답률: 41%
+  - 2024년 09월 7일 01:01AM ~ 01:20AM
+  - 문제 유형: SELECT, SELF JOIN 
+  - [문제 설명](https://20240228.tistory.com/194)
