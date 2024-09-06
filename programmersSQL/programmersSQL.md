@@ -146,5 +146,12 @@
   - 2024년 09월 6일 06:20PM ~ 06:21PM
   - 문제 유형: SELECT, IS NULL, ORDER BY, LIKE, CASE WHEN THEN  
   - [문제 설명](https://20240228.tistory.com/182)
+- 강원도에 위치한 생산공장 목록 출력하기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/131112)
+  - SELECT 
+  - 완료한 사람: 28,234명 정답률: 91%
+  - 2024년 09월 6일 06:50PM ~ 06:57PM
+  - 문제 유형: SELECT, ORDER BY, LIKE
+  - [문제 설명](https://20240228.tistory.com/183)
 
 ### LEVEL2
