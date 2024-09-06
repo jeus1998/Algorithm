@@ -104,6 +104,13 @@
   - 2024년 09월 6일 05:15PM ~ 05:23PM
   - 문제 유형: SELECT + ORDER BY 
   - [문제 설명](https://20240228.tistory.com/176)
+- 흉부외과 또는 일반외과 의사 목록 출력하기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/132203)
+  - SELECT
+  - 완료한 사람: 26,247명 정답률: 91%
+  - 2024년 09월 6일 05:30PM ~ 05:42PM
+  - 문제 유형: SELECT + ORDER BY 
+  - [문제 설명](https://20240228.tistory.com/177)
 
 
 ### LEVEL2
