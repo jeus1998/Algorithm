@@ -125,5 +125,12 @@
   - 2024년 09월 6일 06:00PM ~ 06:01PM
   - 문제 유형: MAX
   - [문제 설명](https://20240228.tistory.com/179)
+- 조건에 맞는 회원수 구하기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/131535)
+  - SELECT
+  - 완료한 사람: 27,954명 정답률: 90%
+  - 2024년 09월 6일 06:10PM ~ 06:15PM
+  - 문제 유형: SELECT, BETWEEN AND
+  - [문제 설명](https://20240228.tistory.com/180)
 
 ### LEVEL2
