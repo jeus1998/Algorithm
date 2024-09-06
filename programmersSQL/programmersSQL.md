@@ -188,5 +188,12 @@
   - 2024년 09월 6일 07:40PM ~ 07:45PM
   - 문제 유형: SELECT, ORDER BY
   - [문제 설명](https://20240228.tistory.com/188)
+- 이름이 없는 동물의 아이디
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/59039)
+  - IS NULL 
+  - 완료한 사람: 55,017명 정답률: 90%
+  - 2024년 09월 7일 12:30AM ~ 12:32AM
+  - 문제 유형: SELECT, ORDER BY
+  - [문제 설명](https://20240228.tistory.com/189)
 
 ### LEVEL2
