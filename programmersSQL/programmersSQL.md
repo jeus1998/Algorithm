@@ -97,6 +97,13 @@
   - 2024년 09월 6일 05:00PM ~ 05:13PM
   - 문제 유형: SELECT + INNER JOIN
   - [문제 설명](https://20240228.tistory.com/175)
+- 인기있는 아이스크림
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/133024)
+  - SELECT
+  - 완료한 사람: 26,890명 정답률: 89%
+  - 2024년 09월 6일 05:15PM ~ 05:23PM
+  - 문제 유형: SELECT + ORDER BY 
+  - [문제 설명](https://20240228.tistory.com/176)
 
 
 ### LEVEL2
