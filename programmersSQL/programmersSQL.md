@@ -202,5 +202,12 @@
   - 2024년 09월 7일 12:35AM ~ 12:38AM
   - 문제 유형: SELECT, NOT IN
   - [문제 설명](https://20240228.tistory.com/190)
+- 아픈 동물 찾기 
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/59036)
+  - SELECT
+  - 완료한 사람: 78,559명 정답률: 91%
+  - 2024년 09월 7일 12:40AM ~ 12:42AM
+  - 문제 유형: SELECT 
+  - [문제 설명](https://20240228.tistory.com/191)
 
 ### LEVEL2
