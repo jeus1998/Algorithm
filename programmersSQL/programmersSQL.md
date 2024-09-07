@@ -234,3 +234,11 @@
   - 2024년 09월 7일 01:01AM ~ 01:20AM
   - 문제 유형: SELECT, SELF JOIN 
   - [문제 설명](https://20240228.tistory.com/194)
+- 연도별 대장균 크기의 편차 구하기 
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/299310)
+  - SUM, MAX, MIN
+  - 완료한 사람: 2,683명 정답률: 51%
+  - 2024년 09월 7일 12:00PM ~ 12:15PM
+  - 문제 유형: SELECT, SELF JOIN 
+  - Learn: YEAR(): return(Integer) / DATE_FORMAT(): return(String)
+  - [문제 설명](https://20240228.tistory.com/195)
