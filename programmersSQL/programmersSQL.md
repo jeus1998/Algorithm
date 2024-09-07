@@ -269,4 +269,12 @@
   - 완료한 사람: 3,171명 정답률: 80%
   - 2024년 09월 7일 09:25PM ~ 09:31PM
   - 문제 유형: GROUP BY, INNER JOIN
-  - [문제 설명](https://20240228.tistory.com/199
+  - [문제 설명](https://20240228.tistory.com/199)
+- 노선별 평균 역 사이 거리 조회하기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/284531)
+  - GROUP BY
+  - 완료한 사람: 3,182명 정답률: 64%
+  - 2024년 09월 7일 09:40PM ~ 10:08PM
+  - 문제 유형: GROUP BY, ORDER BY 
+  - Learn: 정렬의 기준 문자열 즉 사전식 정렬, `ASCII값` 순서로 정렬 / 예로써, 10.0km, 9.0km를 정렬할 때, 실제로는 '1'과 '9'를 비교하는 대참사가 발생
+  - [문제 설명](https://20240228.tistory.com/200)
