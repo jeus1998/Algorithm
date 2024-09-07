@@ -249,3 +249,10 @@
   - 2024년 09월 7일 12:30PM ~ 12:40PM
   - 문제 유형: CASE, GROUP BY, COUNT
   - [문제 설명](https://20240228.tistory.com/196)
+- 특정 물고기를 잡은 총 수 구하기 
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/298518)
+  - SELECT
+  - 완료한 사람: 4,474명 정답률: 74%
+  - 2024년 09월 7일 05:20PM ~ 05:30PM
+  - 문제 유형: JOIN, COUNT
+  - [문제 설명](https://20240228.tistory.com/197)
