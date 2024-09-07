@@ -263,3 +263,10 @@
   - 2024년 09월 7일 05:35PM ~ 05:40PM
   - 문제 유형: GROUP BY, COUNT 
   - [문제 설명](https://20240228.tistory.com/198)
+- 물고기 종류 별 잡은 수 구하기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/293257)
+  - GROUP BY
+  - 완료한 사람: 3,171명 정답률: 80%
+  - 2024년 09월 7일 09:25PM ~ 09:31PM
+  - 문제 유형: GROUP BY, INNER JOIN
+  - [문제 설명](https://20240228.tistory.com/199
