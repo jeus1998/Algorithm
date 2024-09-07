@@ -242,3 +242,10 @@
   - 문제 유형: SELECT, SELF JOIN 
   - Learn: YEAR(): return(Integer) / DATE_FORMAT(): return(String)
   - [문제 설명](https://20240228.tistory.com/195)
+- 분기별 분화된 대장균의 개체 수 구하기 
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/299308)
+  - String, Date
+  - 완료한 사람: 2,205명 정답률: 65%
+  - 2024년 09월 7일 12:30PM ~ 12:40PM
+  - 문제 유형: CASE, GROUP BY, COUNT
+  - [문제 설명](https://20240228.tistory.com/196)
