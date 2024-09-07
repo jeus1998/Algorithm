@@ -256,3 +256,10 @@
   - 2024년 09월 7일 05:20PM ~ 05:30PM
   - 문제 유형: JOIN, COUNT
   - [문제 설명](https://20240228.tistory.com/197)
+- 월별 잡은 물고기 수 구하기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/293260)
+  - GROUP BY
+  - 완료한 사람: 3,263명 정답률: 79%
+  - 2024년 09월 7일 05:35PM ~ 05:40PM
+  - 문제 유형: GROUP BY, COUNT 
+  - [문제 설명](https://20240228.tistory.com/198)
