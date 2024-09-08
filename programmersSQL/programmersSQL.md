@@ -227,7 +227,7 @@
 
 ### LEVEL2
 
-- 부모의 형질을 모두 가지는 대장균 찾기
+- 부모의 형질을 모두 가지는 대장균 찾기 ✅
   - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/301647)
   - SELECT
   - 완료한 사람: 2,264명 정답률: 41%
@@ -270,7 +270,7 @@
   - 2024년 09월 7일 09:25PM ~ 09:31PM
   - 문제 유형: GROUP BY, INNER JOIN
   - [문제 설명](https://20240228.tistory.com/199)
-- 노선별 평균 역 사이 거리 조회하기
+- 노선별 평균 역 사이 거리 조회하기 ✅
   - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/284531)
   - GROUP BY
   - 완료한 사람: 3,182명 정답률: 64%
@@ -285,7 +285,7 @@
   - 2024년 09월 8일 01:40PM ~ 01:44PM
   - 문제 유형: GROUP BY, YEAR(), ROUND(), AVG() 
   - [문제 설명](https://20240228.tistory.com/201)
-- 조건에 맞는 사원 정보 조회하기
+- 조건에 맞는 사원 정보 조회하기 ✅
   - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/284527)
   - GROUP BY 
   - 완료한 사람: 3,015명 정답률: 76%
