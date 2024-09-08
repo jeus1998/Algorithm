@@ -306,5 +306,13 @@
   - 2024년 09월 8일 07:20PM ~ 07:31PM
   - 문제 유형: WHERE 서브 쿼리, JOIN
   - [문제 설명](https://20240228.tistory.com/204)
+- ROOT 아이템 구하기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/273710)
+  - IS NULL 
+  - 완료한 사람: 3,906명 정답률: 80%
+  - 2024년 09월 8일 07:40PM ~ 07:45PM
+  - 문제 유형: WHERE 서브 쿼리, JOIN
+  - [문제 설명](https://20240228.tistory.com/205)
+
 
 ### LEVEL3
