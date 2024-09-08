@@ -285,6 +285,12 @@
   - 2024년 09월 8일 01:40PM ~ 01:44PM
   - 문제 유형: GROUP BY, YEAR(), ROUND(), AVG() 
   - [문제 설명](https://20240228.tistory.com/201)
-
+- 조건에 맞는 사원 정보 조회하기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/284527)
+  - GROUP BY 
+  - 완료한 사람: 3,015명 정답률: 76%
+  - 2024년 09월 8일 02:20PM ~ 02:50PM
+  - 문제 유형: GROUP BY, HAVING
+  - [문제 설명](https://20240228.tistory.com/202)
 
 ### LEVEL3
