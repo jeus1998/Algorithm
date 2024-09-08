@@ -296,9 +296,15 @@
   - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/276034)
   - SELECT 
   - 완료한 사람: 3,301명 정답률: 51%
-  - 2024년 09월 8일 02:20PM ~ 02:50PM
+  - 2024년 09월 8일 07:00PM ~ 07:20PM
   - 문제 유형: WHERE 서브 쿼리
   - [문제 설명](https://20240228.tistory.com/203)
-
+- 업그레이드 된 아이템 구하기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/273711)
+  - SELECT 
+  - 완료한 사람: 3,978명 정답률: 61%
+  - 2024년 09월 8일 07:20PM ~ 07:31PM
+  - 문제 유형: WHERE 서브 쿼리, JOIN
+  - [문제 설명](https://20240228.tistory.com/204)
 
 ### LEVEL3
