@@ -278,3 +278,13 @@
   - 문제 유형: GROUP BY, ORDER BY 
   - Learn: 정렬의 기준 문자열 즉 사전식 정렬, `ASCII값` 순서로 정렬 / 예로써, 10.0km, 9.0km를 정렬할 때, 실제로는 '1'과 '9'를 비교하는 대참사가 발생
   - [문제 설명](https://20240228.tistory.com/200)
+- 연도 별 평균 미세먼지 농도 조회하기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/284530)
+  - String, Date 
+  - 완료한 사람: 3,182명 정답률: 64%
+  - 2024년 09월 8일 01:40PM ~ 01:44PM
+  - 문제 유형: GROUP BY, YEAR(), ROUND(), AVG() 
+  - [문제 설명](https://20240228.tistory.com/201)
+
+
+### LEVEL3
