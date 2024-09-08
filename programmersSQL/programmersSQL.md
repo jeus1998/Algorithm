@@ -292,5 +292,13 @@
   - 2024년 09월 8일 02:20PM ~ 02:50PM
   - 문제 유형: GROUP BY, HAVING
   - [문제 설명](https://20240228.tistory.com/202)
+- 조건에 맞는 개발자 찾기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/276034)
+  - SELECT 
+  - 완료한 사람: 3,301명 정답률: 51%
+  - 2024년 09월 8일 02:20PM ~ 02:50PM
+  - 문제 유형: WHERE 서브 쿼리
+  - [문제 설명](https://20240228.tistory.com/203)
+
 
 ### LEVEL3
