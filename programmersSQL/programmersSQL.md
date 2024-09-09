@@ -4,6 +4,11 @@
 
 - 1~4 레벨 모든 문제 풀고 티스토리 기록하기 
 
+### MySQL 함수 
+
+문제 풀이에 사용한 MySQL 함수 
+- [정리](https://20240228.tistory.com/209)
+
 ### LEVEL1
 
 - 특정 형질을 가지는 대장균 찾기
@@ -331,9 +336,17 @@
   - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/157342)
   - String, Date 
   - 완료한 사람: 12,133명	정답률: 76%
-  - 2024년 09월 9일 02:40PM ~ 02:35PM
+  - 2024년 09월 9일 02:40PM ~ 02:45PM
   - 문제 유형: DATEDIFF(), GROUP BY, HAING 
   - [문제 설명](https://20240228.tistory.com/208)
+- 자동차 종류 별 특정 옵션이 포함된 자동차 수 구하기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/151137)
+  - GROUP BY 
+  - 완료한 사람: 17,499명	정답률: 88%
+  - 2024년 09월 9일 03:33PM ~ 03:45PM
+  - 문제 유형: GROUP BY, LIKE()
+  - Learn: INSTR(), REGEXP - 정규식 
+  - [문제 설명](https://20240228.tistory.com/210)
 
 
 ### LEVEL3
