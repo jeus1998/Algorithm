@@ -327,5 +327,13 @@
   - 2024년 09월 9일 02:25PM ~ 02:35PM
   - 문제 유형: CASE THEN, ORDER BY 
   - [문제 설명](https://20240228.tistory.com/207)
+- 자동차 평균 대여 기간 구하기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/157342)
+  - String, Date 
+  - 완료한 사람: 12,133명	정답률: 76%
+  - 2024년 09월 9일 02:40PM ~ 02:35PM
+  - 문제 유형: DATEDIFF(), GROUP BY, HAING 
+  - [문제 설명](https://20240228.tistory.com/208)
+
 
 ### LEVEL3
