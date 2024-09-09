@@ -365,9 +365,15 @@
   - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/132202)
   - GROUP BY 
   - 완료한 사람: 19,004명	정답률: 89%
-  - 2024년 09월 9일 06:20PM ~ 06:15PM
+  - 2024년 09월 9일 06:20PM ~ 06:25PM
   - 문제 유형: GROUP BY, DATE_FORMAT 
   - [문제 설명](https://20240228.tistory.com/213)
-
+- 재구매가 일어난 상품과 회원 리스트 구하기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/131536)
+  - SELECT  
+  - 완료한 사람: 27,034명	정답률: 78%
+  - 2024년 09월 9일 06:25PM ~ 06:33PM
+  - 문제 유형: GROUP BY, HAVING
+  - [문제 설명](https://20240228.tistory.com/214)
 
 ### LEVEL3
