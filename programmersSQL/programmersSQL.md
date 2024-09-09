@@ -354,5 +354,13 @@
   - 2024년 09월 9일 05:57PM ~ 06:02PM
   - 문제 유형: JOIN, DATE_FORMAT()
   - [문제 설명](https://20240228.tistory.com/211)
+- 성분으로 구분한 아이스크림 총 주문량
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/133026)
+  - GROUP BY 
+  - 완료한 사람: 19,132명	정답률: 87%
+  - 2024년 09월 9일 06:10PM ~ 06:15PM
+  - 문제 유형: JOIN, GROUP BY 
+  - [문제 설명](https://20240228.tistory.com/212)
+
 
 ### LEVEL3
