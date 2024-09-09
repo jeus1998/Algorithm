@@ -320,6 +320,12 @@
   - 2024년 09월 9일 02:20PM ~ 02:25PM
   - 문제 유형: SUM, GROUP BY, HAVING
   - [문제 설명](https://20240228.tistory.com/206)
-
+- 조건에 부합하는 중고거래 상태 조회하기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/164672)
+  - String, Date 
+  - 완료한 사람: 13,616명 정답률: 79%
+  - 2024년 09월 9일 02:25PM ~ 02:35PM
+  - 문제 유형: CASE THEN, ORDER BY 
+  - [문제 설명](https://20240228.tistory.com/207)
 
 ### LEVEL3
