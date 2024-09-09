@@ -361,6 +361,13 @@
   - 2024년 09월 9일 06:10PM ~ 06:15PM
   - 문제 유형: JOIN, GROUP BY 
   - [문제 설명](https://20240228.tistory.com/212)
+- 진료과별 총 예약 횟수 출력하기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/132202)
+  - GROUP BY 
+  - 완료한 사람: 19,004명	정답률: 89%
+  - 2024년 09월 9일 06:20PM ~ 06:15PM
+  - 문제 유형: GROUP BY, DATE_FORMAT 
+  - [문제 설명](https://20240228.tistory.com/213)
 
 
 ### LEVEL3
