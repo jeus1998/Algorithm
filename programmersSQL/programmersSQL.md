@@ -313,6 +313,13 @@
   - 2024년 09월 8일 07:40PM ~ 07:45PM
   - 문제 유형: JOIN, ORDER BY 
   - [문제 설명](https://20240228.tistory.com/205)
+- 조건에 맞는 아이템들의 가격의 총합 구하기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/273709)
+  - SUM, MAX, MIN
+  - 완료한 사람: 6,186명 정답률: 90%
+  - 2024년 09월 9일 02:20PM ~ 02:25PM
+  - 문제 유형: SUM, GROUP BY, HAVING
+  - [문제 설명](https://20240228.tistory.com/206)
 
 
 ### LEVEL3
