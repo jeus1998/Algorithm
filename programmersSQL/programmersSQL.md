@@ -347,6 +347,12 @@
   - 문제 유형: GROUP BY, LIKE()
   - Learn: INSTR(), REGEXP - 정규식 
   - [문제 설명](https://20240228.tistory.com/210)
-
+- 조건에 맞는 도서와 저자 리스트 출력하기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/144854)
+  - JOIN 
+  - 완료한 사람: 21,142명	정답률: 87%
+  - 2024년 09월 9일 05:57PM ~ 06:02PM
+  - 문제 유형: JOIN, DATE_FORMAT()
+  - [문제 설명](https://20240228.tistory.com/211)
 
 ### LEVEL3
