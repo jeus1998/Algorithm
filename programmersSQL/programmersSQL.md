@@ -382,6 +382,12 @@
   - 2024년 09월 10일 03:00PM ~ 03:15PM
   - 문제 유형: GROUP BY, SUM(), JOIN 
   - [문제 설명](https://20240228.tistory.com/215)
-
+- 가격대 별 상품 개수 구하기 ✅
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/131530)
+  - GROUP BY 
+  - 완료한 사람: 16,517명	정답률: 83%
+  - 2024년 09월 10일 03:20PM ~ 03:40PM
+  - 문제 유형: GROUP BY, FLOOR()
+  - [문제 설명](https://20240228.tistory.com/216)
 
 ### LEVEL3
