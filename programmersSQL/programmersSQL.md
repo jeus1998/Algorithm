@@ -389,5 +389,13 @@
   - 2024년 09월 10일 03:20PM ~ 03:40PM
   - 문제 유형: GROUP BY, FLOOR()
   - [문제 설명](https://20240228.tistory.com/216)
+- 카테고리 별 상품 개수 구하기 
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/131529)
+  - String, Date 
+  - 완료한 사람: 14,790명	정답률: 90%
+  - 2024년 09월 10일 03:50PM ~ 03:55PM
+  - 문제 유형: GROUP BY, SUBSTRING
+  - [문제 설명](https://20240228.tistory.com/217)
+
 
 ### LEVEL3
