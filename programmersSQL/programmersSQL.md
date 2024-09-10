@@ -375,5 +375,13 @@
   - 2024년 09월 9일 06:25PM ~ 06:33PM
   - 문제 유형: GROUP BY, HAVING
   - [문제 설명](https://20240228.tistory.com/214)
+- 상품 별 오프라인 매출 구하기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/131533)
+  - JOIN
+  - 완료한 사람: 20,603명	정답률: 87%
+  - 2024년 09월 10일 03:00PM ~ 03:15PM
+  - 문제 유형: GROUP BY, SUM(), JOIN 
+  - [문제 설명](https://20240228.tistory.com/215)
+
 
 ### LEVEL3
