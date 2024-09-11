@@ -459,5 +459,12 @@
   - 2024년 09월 11일 10:40PM ~ 10:43PM
   - 문제 유형: LIKE, REGEXP 
   - [문제 설명](https://20240228.tistory.com/226)
+- 루시와 엘라 찾기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/59046)
+  - String, Date
+  - 완료한 사람: 43,527명	정답률: 84%
+  - 2024년 09월 11일 10:50PM ~ 10:52PM
+  - 문제 유형: IN 
+  - [문제 설명](https://20240228.tistory.com/227)
 
 ### LEVEL3
