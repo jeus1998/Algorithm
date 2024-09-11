@@ -410,6 +410,12 @@
   - 2024년 09월 11일 02:50PM ~ 03:10PM
   - 문제 유형: MAX(), LIMIT 
   - [문제 설명](https://20240228.tistory.com/219)
-
+- DATETIME에서 DATE로 형 변환
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/59414)
+  - String, Date
+  - 완료한 사람: 37,215명	정답률: 90%
+  - 2024년 09월 11일 03:20PM ~ 03:22PM
+  - 문제 유형: DATE_FORMAT()
+  - [문제 설명](https://20240228.tistory.com/220)
 
 ### LEVEL3
