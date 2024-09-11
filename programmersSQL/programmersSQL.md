@@ -431,5 +431,13 @@
   - 2024년 09월 11일 04:15PM ~ 04:20PM
   - 문제 유형: CASE THEN, IS NULL 
   - [문제 설명](https://20240228.tistory.com/222)
+- 중성화 여부 파악하기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/59409)
+  - String, Date
+  - 완료한 사람: 39,609명	정답률: 89%
+  - 2024년 09월 11일 04:20PM ~ 04:20PM
+  - 문제 유형: 정규식(REGEXP), LIKE()
+  - [문제 설명](https://20240228.tistory.com/223)
+
 
 ### LEVEL3
