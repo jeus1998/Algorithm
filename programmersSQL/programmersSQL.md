@@ -438,6 +438,12 @@
   - 2024년 09월 11일 04:20PM ~ 04:30PM
   - 문제 유형: 정규식- REGEXP, LIKE()
   - [문제 설명](https://20240228.tistory.com/223)
-
+- 중복 제거하기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/59408)
+  - SUM, MAX, MIN 
+  - 완료한 사람: 67,863명	정답률: 91%
+  - 2024년 09월 11일 04:45PM ~ 04:47PM
+  - 문제 유형: DISTINCT(), COUNT()
+  - [문제 설명](https://20240228.tistory.com/224)
 
 ### LEVEL3
