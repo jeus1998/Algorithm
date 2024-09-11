@@ -424,6 +424,12 @@
   - 2024년 09월 11일 03:30PM ~ 03:45PM
   - 문제 유형: DATE_FORMAT(), CONVERT(), GROUP BY, HAVING
   - [문제 설명](https://20240228.tistory.com/221)
-
+- NULL 처리하기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/59410)
+  - IS NULL 
+  - 완료한 사람: 51,278명	정답률: 91%
+  - 2024년 09월 11일 04:15PM ~ 04:20PM
+  - 문제 유형: CASE THEN, IS NULL 
+  - [문제 설명](https://20240228.tistory.com/222)
 
 ### LEVEL3
