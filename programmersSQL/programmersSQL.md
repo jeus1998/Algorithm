@@ -466,5 +466,12 @@
   - 2024년 09월 11일 10:50PM ~ 10:52PM
   - 문제 유형: IN 
   - [문제 설명](https://20240228.tistory.com/227)
+- 동명 동물 수 찾기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/59041)
+  - GROUP BY 
+  - 완료한 사람: 61,932명	정답률: 91%
+  - 2024년 09월 11일 11:13PM ~ 11:20PM
+  - 문제 유형: GROUP BY, HAVING
+  - [문제 설명](https://20240228.tistory.com/228)
 
 ### LEVEL3
