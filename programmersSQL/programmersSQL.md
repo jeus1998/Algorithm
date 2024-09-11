@@ -396,6 +396,12 @@
   - 2024년 09월 10일 03:50PM ~ 03:55PM
   - 문제 유형: GROUP BY, SUBSTRING
   - [문제 설명](https://20240228.tistory.com/217)
-
+- 3월에 태어난 여성 회원 목록 출력하기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/131120)
+  - SELECT  
+  - 완료한 사람: 27,547명	정답률: 84%
+  - 2024년 09월 11일 03:50PM ~ 03:55PM
+  - 문제 유형: MONTH(), DATE_FORMAT()
+  - [문제 설명](https://20240228.tistory.com/218)
 
 ### LEVEL3
