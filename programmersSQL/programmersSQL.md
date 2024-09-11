@@ -400,8 +400,16 @@
   - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/131120)
   - SELECT  
   - 완료한 사람: 27,547명	정답률: 84%
-  - 2024년 09월 11일 03:50PM ~ 03:55PM
+  - 2024년 09월 11일 02:40PM ~ 02:45PM
   - 문제 유형: MONTH(), DATE_FORMAT()
   - [문제 설명](https://20240228.tistory.com/218)
+- 가격이 제일 비싼 식품의 정보 출력하기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/131115)
+  - SUM, MAX, MIN
+  - 완료한 사람: 26,541명	정답률: 91%
+  - 2024년 09월 11일 02:50PM ~ 03:10PM
+  - 문제 유형: MAX(), LIMIT 
+  - [문제 설명](https://20240228.tistory.com/219)
+
 
 ### LEVEL3
