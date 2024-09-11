@@ -417,5 +417,13 @@
   - 2024년 09월 11일 03:20PM ~ 03:22PM
   - 문제 유형: DATE_FORMAT()
   - [문제 설명](https://20240228.tistory.com/220)
+- 입양 시각 구하기(1)
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/59412)
+  - GROUP BY 
+  - 완료한 사람: 51,780명	정답률: 89%
+  - 2024년 09월 11일 03:30PM ~ 03:22PM
+  - 문제 유형: DATE_FORMAT(), CONVERT(), GROUP BY, HAVING
+  - [문제 설명](https://20240228.tistory.com/221)
+
 
 ### LEVEL3
