@@ -473,5 +473,13 @@
   - 2024년 09월 11일 11:13PM ~ 11:20PM
   - 문제 유형: GROUP BY, HAVING
   - [문제 설명](https://20240228.tistory.com/228)
+- 고양이와 개는 몇 마리 있을까
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/59040)
+  - GROUP BY 
+  - 완료한 사람: 64,964명	정답률: 89%%
+  - 2024년 09월 11일 11:20PM ~ 11:25PM
+  - 문제 유형: GROUP BY, HAVING
+  - [문제 설명](https://20240228.tistory.com/229)
+
 
 ### LEVEL3
