@@ -445,5 +445,13 @@
   - 2024년 09월 11일 04:45PM ~ 04:47PM
   - 문제 유형: DISTINCT(), COUNT()
   - [문제 설명](https://20240228.tistory.com/224)
+- 동물 수 구하기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/59406)
+  - SUM, MAX, MIN 
+  - 완료한 사람: 69,390명	정답률: 91%
+  - 2024년 09월 11일 10:35PM ~ 10:37PM
+  - 문제 유형: COUNT()
+  - [문제 설명](https://20240228.tistory.com/225)
+
 
 ### LEVEL3
