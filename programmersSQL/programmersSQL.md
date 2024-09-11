@@ -481,7 +481,7 @@
   - 문제 유형: GROUP BY, HAVING
   - [문제 설명](https://20240228.tistory.com/229)
 - 최솟값 구하기
-  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/59040)
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/59038)
   - SUM, MAX, MIN
   - 완료한 사람: 70,647명	정답률: 91%
   - 2024년 09월 11일 11:30PM ~ 11:35PM
