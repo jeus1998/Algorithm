@@ -452,6 +452,12 @@
   - 2024년 09월 11일 10:35PM ~ 10:37PM
   - 문제 유형: COUNT()
   - [문제 설명](https://20240228.tistory.com/225)
-
+- 이름에 el이 들어가는 동물 찾기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/59047)
+  - String, Date
+  - 완료한 사람: 44,788명	정답률: 91%
+  - 2024년 09월 11일 10:40PM ~ 10:43PM
+  - 문제 유형: LIKE, REGEXP 
+  - [문제 설명](https://20240228.tistory.com/226)
 
 ### LEVEL3
