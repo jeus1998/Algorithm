@@ -533,5 +533,13 @@
   - 2024년 09월 15일 09:45PM ~ 09:50AM
   - 문제 유형: GROUP BY 
   - [문제 설명](https://20240228.tistory.com/242)
+- 업그레이드 할 수 없는 아이템 구하기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/273712)
+  - IS NULL 
+  - 완료한 사람: 3,085명	정답률: 67%
+  - 2024년 09월 15일 09:50PM ~ 10:20AM
+  - 문제 유형: GROUP BY 
+  - [문제 설명](https://20240228.tistory.com/243)
+
 
 ### LEVEL4
