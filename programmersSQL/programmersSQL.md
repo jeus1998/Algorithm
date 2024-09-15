@@ -509,7 +509,7 @@
   - SELECT
   - 완료한 사람: 2,921명 정답률: 67%
   - 2024년 09월 15일 04:42PM ~ 04:55AM
-  - 문제 유형: CASE WHEN 
+  - 문제 유형: SELF JOIN, SubQuery
   - [문제 설명](https://20240228.tistory.com/239)
 
 ### LEVEL4
