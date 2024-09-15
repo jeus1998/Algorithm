@@ -519,6 +519,13 @@
   - 문제 유형: GROUP BY, HAVING
   - Learn: AVG(IFNULL()) 활용 
   - [문제 설명](https://20240228.tistory.com/240)
+- 물고기 종류 별 대어 찾기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/293261)
+  - SUM, MAX, MIN
+  - 완료한 사람: 3,673명 정답률: 63%
+  - 2024년 09월 15일 06:30PM ~ 07:10AM
+  - 문제 유형: CTE, 서브쿼리, 다중 조인 
+  - [문제 설명](https://20240228.tistory.com/241)
 
 
 ### LEVEL4
