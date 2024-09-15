@@ -547,5 +547,14 @@
   - 2024년 09월 15일 10:30PM ~ 10:39AM
   - 문제 유형: JOIN, CONCAT(), 서브쿼리
   - [문제 설명](https://20240228.tistory.com/244)
+- 조건에 맞는 사용자 정보 조회하기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/164670)
+  - String, Date
+  - 완료한 사람: 9,526명	정답률: 81%
+  - 2024년 09월 15일 10:45PM ~ 10:55AM
+  - 문제 유형: 
+  - [문제 설명](https://20240228.tistory.com/245)
+
+
 
 ### LEVEL4
