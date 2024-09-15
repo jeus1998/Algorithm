@@ -526,6 +526,12 @@
   - 2024년 09월 15일 06:30PM ~ 07:10AM
   - 문제 유형: CTE, 서브쿼리, 다중 조인 
   - [문제 설명](https://20240228.tistory.com/241)
-
+- 부서별 평균 연봉 조회하기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/284529)
+  - GROUP BY
+  - 완료한 사람: 3,156명	정답률: 80%
+  - 2024년 09월 15일 09:45PM ~ 09:50AM
+  - 문제 유형: GROUP BY 
+  - [문제 설명](https://20240228.tistory.com/242)
 
 ### LEVEL4
