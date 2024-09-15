@@ -497,7 +497,13 @@
   - 2024년 09월 15일 04:00PM ~ 04:32AM
   - 문제 유형: CTE, SubQuery, NTILE(n) 
   - [문제 설명](https://20240228.tistory.com/231)
-
+- 대장균의 크기에 따라 분류하기 1
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/301649)
+  - SELECT
+  - 완료한 사람: 3,043명 정답률: 77%
+  - 2024년 09월 15일 04:35PM ~ 04:40AM
+  - 문제 유형: CASE WHEN 
+  - [문제 설명](https://20240228.tistory.com/238)
 
 
 ### LEVEL4
