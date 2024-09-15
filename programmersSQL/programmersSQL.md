@@ -511,5 +511,14 @@
   - 2024년 09월 15일 04:42PM ~ 04:55AM
   - 문제 유형: SELF JOIN, SubQuery
   - [문제 설명](https://20240228.tistory.com/239)
+- 특정 조건을 만족하는 물고기별 수와 최대 길이 구하기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/298519)
+  - GROUP BY 
+  - 완료한 사람: 2,391명 정답률: 67%
+  - 2024년 09월 15일 06:00PM ~ 06:30AM
+  - 문제 유형: GROUP BY, HAVING
+  - Learn: AVG(IFNULL()) 활용 
+  - [문제 설명](https://20240228.tistory.com/240)
+
 
 ### LEVEL4
