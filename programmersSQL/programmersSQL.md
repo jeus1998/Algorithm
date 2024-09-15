@@ -552,9 +552,15 @@
   - String, Date
   - 완료한 사람: 9,526명	정답률: 81%
   - 2024년 09월 15일 10:45PM ~ 10:55AM
-  - 문제 유형: 
+  - 문제 유형: CONCAT_WS(), INSERT(), CTE, 서브쿼리 
   - [문제 설명](https://20240228.tistory.com/245)
-
+- 조건에 맞는 사용자와 총 거래금액 조회하기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/164668)
+  - GROUP BY 
+  - 완료한 사람: 14,085명	정답률: 85%
+  - 2024년 09월 15일 11:15PM ~ 11:25AM
+  - 문제 유형: GROUP BY, CTE, JOIN 
+  - [문제 설명](https://20240228.tistory.com/246)
 
 
 ### LEVEL4
