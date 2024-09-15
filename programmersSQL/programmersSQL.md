@@ -538,8 +538,14 @@
   - IS NULL 
   - 완료한 사람: 3,085명	정답률: 67%
   - 2024년 09월 15일 09:50PM ~ 10:20AM
-  - 문제 유형: GROUP BY 
+  - 문제 유형: 서브쿼리
   - [문제 설명](https://20240228.tistory.com/243)
-
+- 조회수가 가장 많은 중고거래 게시판의 첨부파일 조회하기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/164671)
+  - String, Date
+  - 완료한 사람: 10,254명	정답률: 74%
+  - 2024년 09월 15일 10:30PM ~ 10:39AM
+  - 문제 유형: JOIN, CONCAT(), 서브쿼리
+  - [문제 설명](https://20240228.tistory.com/244)
 
 ### LEVEL4
