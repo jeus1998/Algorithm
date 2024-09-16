@@ -568,5 +568,13 @@
   - 2024년 09월 16일 09:50AM ~ 10:00AM
   - 문제 유형: JOIN, MONTH()
   - [문제 설명](https://20240228.tistory.com/247)
+- 자동차 대여 기록에서 대여중 / 대여 가능 여부 구분하기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/157340)
+  - GROUP BY
+  - 완료한 사람: 11,242명	정답률: 77%
+  - 2024년 09월 16일 10:20AM ~ 10:50AM
+  - 문제 유형: CTE, LEFT JOIN, 
+  - [문제 설명](https://20240228.tistory.com/248)
+
 
 ### LEVEL4
