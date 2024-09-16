@@ -589,6 +589,12 @@
   - 2024년 09월 16일 11:40AM ~ 11:45AM
   - 문제 유형: GROUP BY, JOIN, SUM
   - [문제 설명](https://20240228.tistory.com/250)
-
+- 즐겨찾기가 가장 많은 식당 정보 출력하기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/131123)
+  - GROUP BY
+  - 완료한 사람: 16,901명	 정답률: 82%
+  - 2024년 09월 16일 07:10PM ~ 07:20AM
+  - 문제 유형: CTE, 서브쿼리, JOIN
+  - [문제 설명](https://20240228.tistory.com/251)
 
 ### LEVEL4
