@@ -624,5 +624,12 @@
   - 2024년 09월 16일 08:10PM ~ 08:25AM
   - 문제 유형: JOIN 
   - [문제 설명](https://20240228.tistory.com/255)
+- 있었는데요 없었습니다
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/59043)
+  - JOIN
+  - 완료한 사람: 50,049명	정답률: 86%
+  - 2024년 09월 16일 08:25PM ~ 08:25AM
+  - 문제 유형: JOIN 
+  - [문제 설명](https://20240228.tistory.com/256)
 
 ### LEVEL4
