@@ -607,9 +607,16 @@
   - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/77487)
   - 2021 Dev-Matching: 웹 백엔드 개발자(상반기)
   - 완료한 사람: 15,656명	 정답률: 73%
-  - 2024년 09월 16일 07:40PM ~ 07:40AM
+  - 2024년 09월 16일 07:40PM ~ 07:50AM
   - 문제 유형: CTE, 서브쿼리, 조인 
   - [문제 설명](https://20240228.tistory.com/253)
+- 오랜 기간 보호한 동물(2)
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/59411)
+  - String, Date
+  - 완료한 사람: 34,505명	정답률: 86%
+  - 2024년 09월 16일 07:50PM ~ 07:57AM
+  - 문제 유형: JOIN, DATEDIFF 날짜 계산 
+  - [문제 설명](https://20240228.tistory.com/254)
 
 
 ### LEVEL4
