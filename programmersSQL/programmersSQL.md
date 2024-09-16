@@ -494,28 +494,28 @@
   - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/301649)
   - SELECT
   - 완료한 사람: 2,060명 정답률: 50%
-  - 2024년 09월 15일 04:00PM ~ 04:32AM
+  - 2024년 09월 15일 04:00PM ~ 04:32PM
   - 문제 유형: CTE, SubQuery, NTILE(n) 
   - [문제 설명](https://20240228.tistory.com/231)
 - 대장균의 크기에 따라 분류하기 1
   - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/299307)
   - SELECT
   - 완료한 사람: 3,043명 정답률: 77%
-  - 2024년 09월 15일 04:35PM ~ 04:40AM
+  - 2024년 09월 15일 04:35PM ~ 04:40PM
   - 문제 유형: CASE WHEN 
   - [문제 설명](https://20240228.tistory.com/238)
 - 대장균들의 자식의 수 구하기
   - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/299305)
   - SELECT
   - 완료한 사람: 2,921명 정답률: 67%
-  - 2024년 09월 15일 04:42PM ~ 04:55AM
+  - 2024년 09월 15일 04:42PM ~ 04:55PM
   - 문제 유형: SELF JOIN, SubQuery
   - [문제 설명](https://20240228.tistory.com/239)
 - 특정 조건을 만족하는 물고기별 수와 최대 길이 구하기
   - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/298519)
   - GROUP BY 
   - 완료한 사람: 2,391명 정답률: 67%
-  - 2024년 09월 15일 06:00PM ~ 06:30AM
+  - 2024년 09월 15일 06:00PM ~ 06:30PM
   - 문제 유형: GROUP BY, HAVING
   - Learn: AVG(IFNULL()) 활용 
   - [문제 설명](https://20240228.tistory.com/240)
@@ -523,44 +523,50 @@
   - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/293261)
   - SUM, MAX, MIN
   - 완료한 사람: 3,673명 정답률: 63%
-  - 2024년 09월 15일 06:30PM ~ 07:10AM
+  - 2024년 09월 15일 06:30PM ~ 07:10PM
   - 문제 유형: CTE, 서브쿼리, 다중 조인 
   - [문제 설명](https://20240228.tistory.com/241)
 - 부서별 평균 연봉 조회하기
   - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/284529)
   - GROUP BY
   - 완료한 사람: 3,156명	정답률: 80%
-  - 2024년 09월 15일 09:45PM ~ 09:50AM
+  - 2024년 09월 15일 09:45PM ~ 09:50PM
   - 문제 유형: GROUP BY 
   - [문제 설명](https://20240228.tistory.com/242)
 - 업그레이드 할 수 없는 아이템 구하기
   - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/273712)
   - IS NULL 
   - 완료한 사람: 3,085명	정답률: 67%
-  - 2024년 09월 15일 09:50PM ~ 10:20AM
+  - 2024년 09월 15일 09:50PM ~ 10:20PM
   - 문제 유형: 서브쿼리
   - [문제 설명](https://20240228.tistory.com/243)
 - 조회수가 가장 많은 중고거래 게시판의 첨부파일 조회하기
   - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/164671)
   - String, Date
   - 완료한 사람: 10,254명	정답률: 74%
-  - 2024년 09월 15일 10:30PM ~ 10:39AM
+  - 2024년 09월 15일 10:30PM ~ 10:39PM
   - 문제 유형: JOIN, CONCAT(), 서브쿼리
   - [문제 설명](https://20240228.tistory.com/244)
 - 조건에 맞는 사용자 정보 조회하기
   - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/164670)
   - String, Date
   - 완료한 사람: 9,526명	정답률: 81%
-  - 2024년 09월 15일 10:45PM ~ 10:55AM
+  - 2024년 09월 15일 10:45PM ~ 10:55PM
   - 문제 유형: CONCAT_WS(), INSERT(), CTE, 서브쿼리 
   - [문제 설명](https://20240228.tistory.com/245)
 - 조건에 맞는 사용자와 총 거래금액 조회하기
   - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/164668)
   - GROUP BY 
   - 완료한 사람: 14,085명	정답률: 85%
-  - 2024년 09월 15일 11:15PM ~ 11:25AM
+  - 2024년 09월 15일 11:15PM ~ 11:25PM
   - 문제 유형: GROUP BY, CTE, JOIN 
   - [문제 설명](https://20240228.tistory.com/246)
-
+- 대여 기록이 존재하는 자동차 리스트 구하기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/157341)
+  - String, Date
+  - 완료한 사람: 10,447명	정답률: 85%
+  - 2024년 09월 16일 09:50AM ~ 10:00AM
+  - 문제 유형: JOIN, MONTH()
+  - [문제 설명](https://20240228.tistory.com/247)
 
 ### LEVEL4
