@@ -617,6 +617,12 @@
   - 2024년 09월 16일 07:50PM ~ 07:57AM
   - 문제 유형: JOIN, DATEDIFF 날짜 계산 
   - [문제 설명](https://20240228.tistory.com/254)
-
+- 오랜 기간 보호한 동물(1)
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/59044)
+  - JOIN
+  - 완료한 사람: 45,813명	정답률: 86%
+  - 2024년 09월 16일 08:10PM ~ 08:25AM
+  - 문제 유형: JOIN 
+  - [문제 설명](https://20240228.tistory.com/255)
 
 ### LEVEL4
