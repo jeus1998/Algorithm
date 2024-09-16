@@ -631,5 +631,12 @@
   - 2024년 09월 16일 08:25PM ~ 08:29AM
   - 문제 유형: JOIN 
   - [문제 설명](https://20240228.tistory.com/256)
+- 없어진 기록 찾기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/59042)
+  - JOIN
+  - 완료한 사람: 52,542명	정답률: 81%
+  - 2024년 09월 16일 08:32PM ~ 08:37AM
+  - 문제 유형: JOIN 
+  - [문제 설명](https://20240228.tistory.com/257)
 
 ### LEVEL4
