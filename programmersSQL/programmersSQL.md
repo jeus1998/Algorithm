@@ -603,7 +603,13 @@
   - 2024년 09월 16일 07:30PM ~ 07:40AM
   - 문제 유형: CASE WHEN, DATE_FORMAT
   - [문제 설명](https://20240228.tistory.com/252)
-
+- 헤비 유저가 소유한 장소
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/77487)
+  - 2021 Dev-Matching: 웹 백엔드 개발자(상반기)
+  - 완료한 사람: 15,656명	 정답률: 73%
+  - 2024년 09월 16일 07:40PM ~ 07:40AM
+  - 문제 유형: CTE, 서브쿼리, 조인 
+  - [문제 설명](https://20240228.tistory.com/253)
 
 
 ### LEVEL4
