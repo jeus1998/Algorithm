@@ -596,5 +596,14 @@
   - 2024년 09월 16일 07:10PM ~ 07:20AM
   - 문제 유형: CTE, 서브쿼리, JOIN
   - [문제 설명](https://20240228.tistory.com/251)
+- 조건별로 분류하여 주문상태 출력하기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/131113)
+  - String, Date 
+  - 완료한 사람: 12,166명	 정답률: 87%
+  - 2024년 09월 16일 07:30PM ~ 07:40AM
+  - 문제 유형: CASE WHEN, DATE_FORMAT
+  - [문제 설명](https://20240228.tistory.com/252)
+
+
 
 ### LEVEL4
