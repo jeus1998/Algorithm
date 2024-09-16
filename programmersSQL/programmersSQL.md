@@ -587,7 +587,7 @@
   - GROUP BY
   - 완료한 사람: 15,509명	정답률: 87%
   - 2024년 09월 16일 11:40AM ~ 11:45AM
-  - 문제 유형: CTE, GROUP BY, HAVING
+  - 문제 유형: GROUP BY, JOIN, SUM
   - [문제 설명](https://20240228.tistory.com/250)
 
 
