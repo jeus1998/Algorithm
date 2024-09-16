@@ -573,8 +573,15 @@
   - GROUP BY
   - 완료한 사람: 11,242명	정답률: 77%
   - 2024년 09월 16일 10:20AM ~ 10:50AM
-  - 문제 유형: CTE, LEFT JOIN, 
+  - 문제 유형: CTE, LEFT JOIN, MAX
   - [문제 설명](https://20240228.tistory.com/248)
+- 대여 횟수가 많은 자동차들의 월별 대여 횟수 구하기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/151139)
+  - GROUP BY
+  - 완료한 사람: 10,593명	정답률: 72%
+  - 2024년 09월 16일 11:10AM ~ 11:40AM
+  - 문제 유형: CTE, GROUP BY, HAVING
+  - [문제 설명](https://20240228.tistory.com/249)
 
 
 ### LEVEL4
