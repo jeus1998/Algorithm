@@ -640,3 +640,12 @@
   - [문제 설명](https://20240228.tistory.com/257)
 
 ### LEVEL4
+
+- 특정 세대의 대장균 찾기 ✅
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/301650)
+  - SELECT 
+  - 완료한 사람: 1,920명	정답률: 54%
+  - 2024년 09월 17일 02:10PM ~ 02:40AM
+  - 문제 유형: CTE, Recursive CTE
+  - Recursive CTE 문제 
+  - [문제 설명](https://20240228.tistory.com/258)
