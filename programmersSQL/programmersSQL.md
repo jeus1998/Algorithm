@@ -649,3 +649,12 @@
   - 문제 유형: CTE, Recursive CTE
   - Recursive CTE 문제 
   - [문제 설명](https://20240228.tistory.com/258)
+- 연간 평가점수에 해당하는 평가 등급 및 성과금 조회하기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/284528)
+  - GROUP BY 
+  - 완료한 사람: 2,000명  정답률: 68%
+  - 2024년 09월 17일 05:30PM ~ 05:50AM
+  - 문제 유형: JOIN, 서브쿼리, GROUP BY, CASE WHEN THEN 
+  - [문제 설명](https://20240228.tistory.com/259)
+
+### LEVEL5 
