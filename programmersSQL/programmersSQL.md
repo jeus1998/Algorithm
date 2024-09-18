@@ -677,5 +677,12 @@
   - 2024년 09월 18일 05:10PM ~ 05:55AM
   - 문제 유형: CONVERT(), CTE, JOIN 
   - [문제 설명](https://20240228.tistory.com/262)
+- 자동차 대여 기록 별 대여 금액 구하기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/151141)
+  - String, Date
+  - 완료한 사람: 5,360명  정답률: 48%
+  - 2024년 09월 18일 06:10PM ~ 06:37AM
+  - 문제 유형: CASE WHEN THEN, CONVERT(), CTE, JOIN 
+  - [문제 설명](https://20240228.tistory.com/263)
 
 ### LEVEL5 
