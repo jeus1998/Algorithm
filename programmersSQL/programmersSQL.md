@@ -691,6 +691,12 @@
   - 2024년 09월 18일 07:20PM ~ 07:50AM
   - 문제 유형: CTE, JOIN, GROUP BY, DATE_FORMAT
   - [문제 설명](https://20240228.tistory.com/264)
-
+- 주문량이 많은 아이스크림들 조회하기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/133027)
+  - JOIN
+  - 완료한 사람: 14,895명	 정답률: 71%
+  - 2024년 09월 18일 08:20PM ~ 08:30AM
+  - 문제 유형: LIMIT, ORDER BY, JOIN
+  - [문제 설명](https://20240228.tistory.com/265)
 
 ### LEVEL5 
