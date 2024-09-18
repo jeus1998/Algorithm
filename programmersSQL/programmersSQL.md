@@ -698,5 +698,12 @@
   - 2024년 09월 18일 08:20PM ~ 08:30AM
   - 문제 유형: LIMIT, ORDER BY, JOIN
   - [문제 설명](https://20240228.tistory.com/265)
+- 취소되지 않은 진료 예약 조회하기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/133027)
+  - String, Date 
+  - 완료한 사람: 8,859명	 정답률: 77%
+  - 2024년 09월 18일 11:00PM ~ 11:07AM
+  - 문제 유형: JOIN, DATE_FORMAT()
+  - [문제 설명](https://20240228.tistory.com/266)
 
 ### LEVEL5 
