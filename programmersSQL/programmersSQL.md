@@ -712,6 +712,12 @@
   - 2024년 09월 18일 11:10PM ~ 11:25AM
   - 문제 유형: UNION ALL, DATE_FORMAT
   - [문제 설명](https://20240228.tistory.com/267)
-
+- 년, 월, 성별 별 상품 구매 회원 수 구하기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/131532)
+  - GROUP BY
+  - 완료한 사람: 12,256명  정답률: 74%
+  - 2024년 09월 18일 11:30PM ~ 11:45AM
+  - 문제 유형: COUNT(DISTINCT), JOIN, GROUP BY 
+  - [문제 설명](https://20240228.tistory.com/268)
 
 ### LEVEL5 
