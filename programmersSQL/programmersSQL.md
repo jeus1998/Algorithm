@@ -656,5 +656,13 @@
   - 2024년 09월 17일 05:30PM ~ 05:50AM
   - 문제 유형: JOIN, 서브쿼리, GROUP BY, CASE WHEN THEN 
   - [문제 설명](https://20240228.tistory.com/259)
+- 언어별 개발자 분류하기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/276036)
+  - GROUP BY 
+  - 완료한 사람: 1,321명  정답률: 35%
+  - 2024년 09월 18일 03:30PM ~ 04:30AM
+  - 문제 유형: CTE, CASE WHEN, JOIN, 비트 연산 
+  - [문제 설명](https://20240228.tistory.com/260)
+
 
 ### LEVEL5 
