@@ -705,5 +705,13 @@
   - 2024년 09월 18일 11:00PM ~ 11:07AM
   - 문제 유형: JOIN, DATE_FORMAT()
   - [문제 설명](https://20240228.tistory.com/266)
+- 오프라인/온라인 판매 데이터 통합하기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/131537)
+  - SELECT  
+  - 완료한 사람: 18,663명	  정답률: 64%
+  - 2024년 09월 18일 11:10PM ~ 11:25AM
+  - 문제 유형: UNION ALL, DATE_FORMAT
+  - [문제 설명](https://20240228.tistory.com/267)
+
 
 ### LEVEL5 
