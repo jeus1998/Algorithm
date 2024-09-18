@@ -670,5 +670,12 @@
   - 2024년 09월 18일 04:50PM ~ 04:55AM
   - 문제 유형: CTE, SUM() 
   - [문제 설명](https://20240228.tistory.com/261)
+- 특정 기간동안 대여 가능한 자동차들의 대여비용 구하기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/157339)
+  - JOIN 
+  - 완료한 사람: 7,665명	정답률: 47%
+  - 2024년 09월 18일 05:10PM ~ 05:55AM
+  - 문제 유형: CONVERT(), CTE, JOIN 
+  - [문제 설명](https://20240228.tistory.com/262)
 
 ### LEVEL5 
