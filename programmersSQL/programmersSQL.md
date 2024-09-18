@@ -663,6 +663,12 @@
   - 2024년 09월 18일 03:30PM ~ 04:30AM
   - 문제 유형: CTE, CASE WHEN, JOIN, 비트 연산 
   - [문제 설명](https://20240228.tistory.com/260)
-
+- FrontEnd 개발자 찾기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/276035)
+  - JOIN 
+  - 완료한 사람: 1,992명  정답률: 46%
+  - 2024년 09월 18일 04:50PM ~ 04:55AM
+  - 문제 유형: CTE, SUM() 
+  - [문제 설명](https://20240228.tistory.com/261)
 
 ### LEVEL5 
