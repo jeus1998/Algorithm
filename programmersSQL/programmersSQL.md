@@ -684,5 +684,13 @@
   - 2024년 09월 18일 06:10PM ~ 06:37AM
   - 문제 유형: CASE WHEN THEN, CONVERT(), CTE, JOIN 
   - [문제 설명](https://20240228.tistory.com/263)
+- 저자 별 카테고리 별 매출액 집계하기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/144856)
+  - GROUP BY 
+  - 완료한 사람: 11,454명	 정답률: 74%
+  - 2024년 09월 18일 07:20PM ~ 07:50AM
+  - 문제 유형: CTE, JOIN, GROUP BY, DATE_FORMAT
+  - [문제 설명](https://20240228.tistory.com/264)
+
 
 ### LEVEL5 
