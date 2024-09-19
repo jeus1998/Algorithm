@@ -778,3 +778,10 @@
   - 2024년 09월 19일 04:40PM ~ 05:00AM
   - 문제 유형: RECURSIVE CTE, GROUP BY, COUNT
   - [문제 설명](https://20240228.tistory.com/276)
+- 상품을 구매한 회원 비율 구하기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/131534)
+  - JOIN
+  - 완료한 사람: 8,845명	정답률: 44%
+  - 2024년 09월 19일 05:10PM ~ 05:27AM
+  - 문제 유형: CTE, COUNT(), DISTINCT, ROUND, GROUP BY 
+  - [문제 설명](https://20240228.tistory.com/277)
