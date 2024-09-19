@@ -719,5 +719,13 @@
   - 2024년 09월 18일 11:30PM ~ 11:45AM
   - 문제 유형: COUNT(DISTINCT), JOIN, GROUP BY 
   - [문제 설명](https://20240228.tistory.com/268)
+- 그룹별 조건에 맞는 식당 목록 출력하기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/131124)
+  - JOIN
+  - 완료한 사람: 12,204명  정답률: 68%
+  - 2024년 09월 19일 02:15PM ~ 02:25AM
+  - 문제 유형: CTE, JOIN, GROUP BY, COUNT, 서브쿼리 
+  - [문제 설명](https://20240228.tistory.com/269)
+
 
 ### LEVEL5 
