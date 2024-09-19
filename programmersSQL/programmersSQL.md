@@ -740,5 +740,12 @@
   - 2024년 09월 19일 03:40PM ~ 03:47AM
   - 문제 유형: JOIN, GROUP BY, SUM(), DATE_FORMAT()
   - [문제 설명](https://20240228.tistory.com/271)
+- 식품분류별 가장 비싼 식품의 정보 조회하기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/131116)
+  - GROUP BY 
+  - 완료한 사람: 12,384명  정답률: 83%
+  - 2024년 09월 19일 03:50PM ~ 03:57AM
+  - 문제 유형: IN, CTE, JOIN
+  - [문제 설명](https://20240228.tistory.com/272)
 
 ### LEVEL5 
