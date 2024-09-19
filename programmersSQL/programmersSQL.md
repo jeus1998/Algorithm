@@ -770,3 +770,11 @@
   - [문제 설명](https://20240228.tistory.com/275)
 
 ### LEVEL5 
+
+- 멸종위기의 대장균 찾기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/301651)
+  - SELECT
+  - 완료한 사람: 1,205명	정답률: 14%
+  - 2024년 09월 19일 04:40PM ~ 05:00AM
+  - 문제 유형: RECURSIVE CTE, GROUP BY, COUNT
+  - [문제 설명](https://20240228.tistory.com/276)
