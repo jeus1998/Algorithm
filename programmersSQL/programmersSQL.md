@@ -761,6 +761,12 @@
   - 2024년 09월 19일 04:10PM ~ 04:25AM
   - 문제 유형: RECURSIVE CTE 활용, CASE WHEN THEN 
   - [문제 설명](https://20240228.tistory.com/274)
-
+- 보호소에서 중성화한 동물
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/59045)
+  - JOIN
+  - 완료한 사람: 41,493명	정답률: 85%
+  - 2024년 09월 19일 04:35PM ~ 04:39AM
+  - 문제 유형: REGEXP, JOIN
+  - [문제 설명](https://20240228.tistory.com/275)
 
 ### LEVEL5 
