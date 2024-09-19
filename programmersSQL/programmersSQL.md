@@ -754,5 +754,13 @@
   - 2024년 09월 19일 04:00PM ~ 04:06AM
   - 문제 유형: JOIN
   - [문제 설명](https://20240228.tistory.com/273)
+- 입양 시각 구하기(2)
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/59413)
+  - GROUP BY 
+  - 완료한 사람: 31,828명	정답률: 60%
+  - 2024년 09월 19일 04:10PM ~ 04:25AM
+  - 문제 유형: RECURSIVE CTE 활용, CASE WHEN THEN 
+  - [문제 설명](https://20240228.tistory.com/274)
+
 
 ### LEVEL5 
