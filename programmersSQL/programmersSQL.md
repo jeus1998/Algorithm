@@ -734,11 +734,11 @@
   - 문제 유형: LIKE, GROUP BY, AVG, ROUND, JOIN
   - [문제 설명](https://20240228.tistory.com/270)
 - 5월 식품들의 총매출 조회하기
-  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/131118)
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/131117)
   - JOIN
   - 완료한 사람: 13,921명  정답률: 83%
-  - 2024년 09월 19일 03:05PM ~ 03:AM
-  - 문제 유형: LIKE, GROUP BY, AVG, ROUND, JOIN
-  - [문제 설명](https://20240228.tistory.com/270)
+  - 2024년 09월 19일 03:40PM ~ 03:47AM
+  - 문제 유형: JOIN, GROUP BY, SUM(), DATE_FORMAT()
+  - [문제 설명](https://20240228.tistory.com/271)
 
 ### LEVEL5 
