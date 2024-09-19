@@ -2,7 +2,7 @@
 
 ### 목표 
 
-- 1~4 레벨 모든 문제 풀고 티스토리 기록하기 
+- 1~5 레벨 모든 문제 풀고 티스토리 기록하기 
 
 ### MySQL 함수 
 
@@ -726,6 +726,19 @@
   - 2024년 09월 19일 02:15PM ~ 02:25AM
   - 문제 유형: CTE, JOIN, GROUP BY, COUNT, 서브쿼리 
   - [문제 설명](https://20240228.tistory.com/269)
-
+- 서울에 위치한 식당 목록 출력하기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/131118)
+  - SELECT 
+  - 완료한 사람: 17,249명  정답률: 76%
+  - 2024년 09월 19일 03:05PM ~ 03:20AM
+  - 문제 유형: LIKE, GROUP BY, AVG, ROUND, JOIN
+  - [문제 설명](https://20240228.tistory.com/270)
+- 5월 식품들의 총매출 조회하기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/131118)
+  - JOIN
+  - 완료한 사람: 13,921명  정답률: 83%
+  - 2024년 09월 19일 03:05PM ~ 03:AM
+  - 문제 유형: LIKE, GROUP BY, AVG, ROUND, JOIN
+  - [문제 설명](https://20240228.tistory.com/270)
 
 ### LEVEL5 
