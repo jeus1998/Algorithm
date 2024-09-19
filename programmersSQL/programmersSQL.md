@@ -747,5 +747,12 @@
   - 2024년 09월 19일 03:50PM ~ 03:57AM
   - 문제 유형: IN, CTE, JOIN
   - [문제 설명](https://20240228.tistory.com/272)
+- 우유와 요거트가 담긴 장바구니
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/62284)
+  - Summer/Winter Coding(2019)
+  - 완료한 사람: 16,109명	 정답률: 72%
+  - 2024년 09월 19일 04:00PM ~ 04:06AM
+  - 문제 유형: JOIN
+  - [문제 설명](https://20240228.tistory.com/273)
 
 ### LEVEL5 
