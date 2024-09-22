@@ -171,5 +171,13 @@
   - 2024년 09월 20일 10:00AM ~ 11:50PM 
   - 문제 유형: 구현 + 다양한 진법 변환 
   - [문제 설명](https://20240228.tistory.com/279)
+- 등산코스 정하기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/118669)
+  - 2022 KAKAO TECH INTERNSHIP 
+  - 완료한 사람: 3,025명  정답률: 27%
+  - 2024년 09월 22일 02:50AM ~ 04:48PM 
+  - 문제 유형: 다익스트라 
+  - [문제 설명](https://20240228.tistory.com/280)
+
 
 ### LEVEL4
