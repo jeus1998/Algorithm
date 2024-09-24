@@ -6,10 +6,10 @@
 <br>
 
 ### Programmers 문제 설명(티스토리 링크)
-[프로그래머스JAVA 2~4](https://github.com/jeus1998/Algorithm/blob/main/programmers2/programmers.md)
+[프로그래머스 JAVA LEVEL: 2~4](https://github.com/jeus1998/Algorithm/blob/main/programmers2/programmers.md)
 - 수학 제외 모든 문제 2025년 1 ~ 4월 예정
 
-[프로그래머스SQL 1~5](https://github.com/jeus1998/Algorithm/blob/main/programmersSQL/programmersSQL.md)
+[프로그래머스 SQL LEVEL: 1~5](https://github.com/jeus1998/Algorithm/blob/main/programmersSQL/programmersSQL.md)
 - 2024년 9월 19일 기준 전부 해결 
 
 ## 배제우 Baekjoon Online Judge
