@@ -192,5 +192,13 @@
   - 2024년 09월 24일 09:05PM ~ 09:40PM 
   - 문제 유형: 백트래킹(완전탐색)
   - [문제 설명](https://20240228.tistory.com/283)
+- 미로 탈출 명령어
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/150365)
+  - 2023 KAKAO BLIND RECRUITMENT 
+  - 완료한 사람: 3,193명  정답률: 33%
+  - 2024년 09월 25일 05:00PM ~ 06:30PM 
+  - 문제 유형: 구현 
+  - [문제 설명](https://20240228.tistory.com/284)
+
 
 ### LEVEL4
