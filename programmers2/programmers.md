@@ -197,8 +197,14 @@
   - 2023 KAKAO BLIND RECRUITMENT 
   - 완료한 사람: 3,193명  정답률: 33%
   - 2024년 09월 25일 05:00PM ~ 06:30PM 
-  - 문제 유형: 구현 
+  - 문제 유형: 구현 or DFS 
   - [문제 설명](https://20240228.tistory.com/284)
-
+- 인사고과
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/152995)
+  - 연습문제
+  - 완료한 사람: 3,417명  정답률: 39%
+  - 2024년 09월 26일 08:00PM ~ 08:56PM 
+  - 문제 유형: 구현 
+  - [문제 설명](https://20240228.tistory.com/285)
 
 ### LEVEL4
