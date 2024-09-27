@@ -206,5 +206,13 @@
   - 2024년 09월 26일 08:00PM ~ 08:56PM 
   - 문제 유형: 구현 
   - [문제 설명](https://20240228.tistory.com/285)
+- 표 병합
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/150366
+  - 2023 KAKAO BLIND RECRUITMENT
+  - 완료한 사람: 1,931명  정답률: 26%
+  - 2024년 09월 27일 02:00PM ~ 02:55PM 
+  - 문제 유형: UNION-FIND + 다양한 분기 처리 
+  - [문제 설명](https://20240228.tistory.com/286)
+
 
 ### LEVEL4
