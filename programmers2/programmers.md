@@ -161,6 +161,14 @@
   - 2024년 09월 28일 11:02PM ~ 11:20PM
   - 문제 유형: 구현 
   - [문제 설명](https://20240228.tistory.com/289)
+- [3차] n진수 게임
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/17687)
+  - 2018 KAKAO BLIND RECRUITMENT
+  - 완료한 사람: 13,639명	정답률: 61%
+  - 2024년 09월 28일 11:25PM ~ 11:57PM
+  - 문제 유형: 구현 
+  - [문제 설명](https://20240228.tistory.com/290)
+
 
 ### LEVEL3
 
