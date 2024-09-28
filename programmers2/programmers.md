@@ -140,6 +140,14 @@
   - 2024년 09월 13일 05:20PM ~ 06:27PM
   - 문제 유형: 구현/시뮬레이션 
   - [문제 설명](https://20240228.tistory.com/235)
+- 테이블 해시 함수 
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/147354)
+  - 연습 문제 
+  - 완료한 사람: 4,712명 정답률: 47%
+  - 2024년 09월 28일 12:12PM ~ 12:33PM
+  - 문제 유형: 구현, 배타적 논리합/XOR `^`, 배열 스트림 연산 
+  - [문제 설명](https://20240228.tistory.com/287)
+
 
 ### LEVEL3
 
@@ -207,12 +215,11 @@
   - 문제 유형: 구현 
   - [문제 설명](https://20240228.tistory.com/285)
 - 표 병합
-  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/150366
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/150366)
   - 2023 KAKAO BLIND RECRUITMENT
   - 완료한 사람: 1,931명  정답률: 26%
   - 2024년 09월 27일 02:00PM ~ 02:55PM 
   - 문제 유형: UNION-FIND + 다양한 분기 처리 
   - [문제 설명](https://20240228.tistory.com/286)
-
 
 ### LEVEL4
