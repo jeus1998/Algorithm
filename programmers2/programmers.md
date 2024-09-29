@@ -249,5 +249,12 @@
   - 2024년 09월 27일 02:00PM ~ 02:55PM 
   - 문제 유형: UNION-FIND + 다양한 분기 처리 
   - [문제 설명](https://20240228.tistory.com/286)
+- 합승 택시 요금 
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/72413)
+  - 2021 KAKAO BLIND RECRUITMENT 
+  - 완료한 사람: 9,246명  정답률: 40%
+  - 2024년 09월 29일 07:00PM ~ 07:30PM 
+  - 문제 유형: 플로이드 마샬 / 다익스트라 
+  - [문제 설명](https://20240228.tistory.com/292)
 
 ### LEVEL4
