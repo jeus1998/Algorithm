@@ -175,7 +175,13 @@
   - 2024년 09월 29일 04:00PM ~ 05:05PM
   - 문제 유형: 구현 
   - [문제 설명](https://20240228.tistory.com/291)
-
+- 우박수열 정적분 
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/134239)
+  - 연습문제
+  - 완료한 사람: 3,504명 정답률: 44%
+  - 2024년 09월 30일 10:30AM ~ 11:01PM
+  - 문제 유형: 구현 / DoubleStream 활용 - mapToDouble / Double -> double doubleValue() 
+  - [문제 설명](https://20240228.tistory.com/294)
 
 ### LEVEL3
 
