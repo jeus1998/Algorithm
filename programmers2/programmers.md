@@ -262,5 +262,14 @@
   - 2024년 09월 29일 07:00PM ~ 07:30PM 
   - 문제 유형: 플로이드 마샬 / 다익스트라 
   - [문제 설명](https://20240228.tistory.com/292)
+- 양과 늑대 
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/72413)
+  - 2022 KAKAO BLIND RECRUITMENT 
+  - 완료한 사람: 5,331명  정답률: 36%
+  - 2024년 10월 01일 11:00AM ~ 12:05PM 
+  - 문제 유형: 이진트리 완전탐색 
+  - [문제 설명](https://20240228.tistory.com/294)
+
+
 
 ### LEVEL4
