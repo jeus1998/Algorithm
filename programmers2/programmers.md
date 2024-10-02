@@ -276,5 +276,13 @@
   - 2024년 10월 01일 10:00PM ~ 11:20PM 
   - 문제 유형: 이분 탐색(매개변수 탐색) 응용 
   - [문제 설명](https://20240228.tistory.com/300)
-  
+- 길 찾기 게임 
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42892)
+  - 2019 KAKAO BLIND RECRUITMENT
+  - 완료한 사람: 6,866명	정답률: 37%
+  - 2024년 10월 02일 01:00PM ~ 02:30PM 
+  - 문제 유형: 이진 탐색 구현 + 이진 탐색 순회
+  - [문제 설명](https://20240228.tistory.com/301)  
+
+
 ### LEVEL4
