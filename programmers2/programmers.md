@@ -182,6 +182,13 @@
   - 2024년 09월 30일 10:30AM ~ 11:01PM
   - 문제 유형: 구현 / DoubleStream 활용 - mapToDouble / Double -> double doubleValue() 
   - [문제 설명](https://20240228.tistory.com/294)
+- k진수에서 소수 개수 구하기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/92335)
+  - 2022 KAKAO BLIND RECRUITMENT 
+  - 완료한 사람: 3,504명 정답률: 44%
+  - 2024년 10월 08일 11:30AM ~ 12:01PM
+  - 문제 유형: 소수판별 + 구현(진법 변환)
+  - [문제 설명](https://20240228.tistory.com/315)
 
 ### LEVEL3
 
