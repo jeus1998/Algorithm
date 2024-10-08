@@ -189,6 +189,14 @@
   - 2024년 10월 08일 11:30AM ~ 12:01PM
   - 문제 유형: 소수판별 + 구현(진법 변환)
   - [문제 설명](https://20240228.tistory.com/315)
+- 후보키
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42890)
+  - 2019 KAKAO BLIND RECRUITMENT 
+  - 완료한 사람: 10,138명	정답률: 41%
+  - 2024년 10월 08일 01:30PM ~ 02:35PM
+  - 문제 유형: 구현 + 완전탐색 
+  - [문제 설명](https://20240228.tistory.com/316)
+
 
 ### LEVEL3
 
