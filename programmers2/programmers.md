@@ -207,9 +207,18 @@
   - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/17686)
   - 2018 KAKAO BLIND RECRUITMENT 
   - 완료한 사람: 12,716명	정답률: 57%
-  - 2024년 10월 10일 11:30PM ~ 11:50PM
+  - 2024년 10월 09일 11:30PM ~ 11:50PM
   - 문제 유형: 구현 + 정렬 
   - [문제 설명](https://20240228.tistory.com/320)
+- 오픈 채팅방
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42888)
+  - 2019 KAKAO BLIND RECRUITMENT 
+  - 완료한 사람: 33,395명	정답률: 58%
+  - 2024년 10월 10일 12:20PM ~ 12:30PM
+  - 문제 유형: 구현 + 정렬 
+  - [문제 설명](https://20240228.tistory.com/322)
+
+
 
 ### LEVEL3
 
