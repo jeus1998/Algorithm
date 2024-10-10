@@ -217,6 +217,13 @@
   - 2024년 10월 10일 12:20PM ~ 12:30PM
   - 문제 유형: 구현 + 정렬 
   - [문제 설명](https://20240228.tistory.com/322)
+- 스킬트리 
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/49993)
+  - Summer/Winter Coding(~2018) 
+  - 완료한 사람: 24,507명	정답률: 59%
+  - 2024년 10월 11일 00:20AM ~ 00:30AM
+  - 문제 유형: 구현
+  - [문제 설명](https://20240228.tistory.com/324)
 
 
 
