@@ -231,6 +231,13 @@
   - 2024년 10월 11일 06:45PM ~ 07:05PM
   - 문제 유형: 구현(스택 활용)
   - [문제 설명](https://20240228.tistory.com/325)
+- 방문 길이 
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/49994)
+  - Summer/Winter Coding(~2018) 
+  - 완료한 사람: 14,221명	 정답률: 61%
+  - 2024년 10월 11일 08:20PM ~ 08:56PM
+  - 문제 유형: 구현
+  - [문제 설명](https://20240228.tistory.com/326)
 
 
 ### LEVEL3
