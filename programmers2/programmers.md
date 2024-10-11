@@ -224,7 +224,13 @@
   - 2024년 10월 11일 00:20AM ~ 00:30AM
   - 문제 유형: 구현
   - [문제 설명](https://20240228.tistory.com/324)
-
+- 괄호 변환 
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/60058)
+  - 2020 KAKAO BLIND RECRUITMENT
+  - 완료한 사람: 19,489명	 정답률: 48%
+  - 2024년 10월 11일 06:45PM ~ 07:05PM
+  - 문제 유형: 구현(스택 활용)
+  - [문제 설명](https://20240228.tistory.com/325)
 
 
 ### LEVEL3
