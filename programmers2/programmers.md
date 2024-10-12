@@ -245,7 +245,13 @@
   - 2024년 10월 12일 03:00PM ~ 03:32PM
   - 문제 유형: 구현
   - [문제 설명](https://20240228.tistory.com/327)
-
+- 숫자 블록 
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12923)
+  - 연습문제 
+  - 완료한 사람: 3,303명  정답률: 37%
+  - 2024년 10월 12일 04:00PM ~ 06:17PM
+  - 문제 유형: 구현
+  - [문제 설명](https://20240228.tistory.com/328)
 
 ### LEVEL3
 
