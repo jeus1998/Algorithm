@@ -252,6 +252,13 @@
   - 2024년 10월 12일 04:00PM ~ 06:17PM
   - 문제 유형: 구현
   - [문제 설명](https://20240228.tistory.com/328)
+- 줄 서는 방법
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12936)
+  - 연습문제 
+  - 완료한 사람: 7,072명  정답률: 48%
+  - 2024년 10월 13일 01:00PM ~ 01:27PM
+  - 문제 유형: 구현
+  - [문제 설명](https://20240228.tistory.com/329)
 
 ### LEVEL3
 
