@@ -256,9 +256,16 @@
   - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12936)
   - 연습문제 
   - 완료한 사람: 7,072명  정답률: 48%
-  - 2024년 10월 13일 01:00PM ~ 01:27PM
+  - 2024년 10월 13일 01:00AM ~ 01:27AM
   - 문제 유형: 구현
   - [문제 설명](https://20240228.tistory.com/329)
+- 거리두기 확인하기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/81302)
+  - 2021 카카오 채용연계형 인턴십 
+  - 완료한 사람: 13,900명  정답률: 46%
+  - 2024년 10월 13일 01:40AM ~ 02:00AM
+  - 문제 유형: BFS
+  - [문제 설명](https://20240228.tistory.com/330)
 
 ### LEVEL3
 
