@@ -270,16 +270,24 @@
   - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/68936)
   - 월간 코드 챌린지 시즌1
   - 완료한 사람: 9,896명  정답률: 54%
-  - 2024년 10월 14일 12:20PM ~ 12:40AM
+  - 2024년 10월 13일 12:20PM ~ 12:40AM
   - 문제 유형: 분할 정복 
   - [문제 설명](https://20240228.tistory.com/331)
 - 이진 변환 반복하기
   - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/70129)
   - 월간 코드 챌린지 시즌1
   - 완료한 사람: 29,371명  정답률: 77%
-  - 2024년 10월 14일 12:45PM ~ 12:56AM
+  - 2024년 10월 13일 12:45PM ~ 12:56AM
   - 문제 유형: 구현(10진수 -> 2진수)
   - [문제 설명](https://20240228.tistory.com/332)
+- 롤케이크 자르기 
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/132265)
+  - 연습문제 
+  - 완료한 사람: 8,957명  정답률: 61%
+  - 2024년 10월 14일 10:05AM ~ 10:13AM
+  - 문제 유형: 구현
+  - [문제 설명](https://20240228.tistory.com/333)
+
 
 ### LEVEL3
 
