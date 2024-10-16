@@ -298,24 +298,30 @@
   - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/76502)
   - 월간 코드 챌린지 시즌2 
   - 완료한 사람: 19,633명  정답률: 67%
-  - 2024년 10월 14일 12:20PM ~ 12:43AM
+  - 2024년 10월 14일 12:20PM ~ 12:43PM
   - 문제 유형: 구현
   - [문제 설명](https://20240228.tistory.com/335)
 - n^2 배열 자르기
   - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/87390)
   - 월간 코드 챌린지 시즌3 
   - 완료한 사람: 14,560명  정답률: 67%
-  - 2024년 10월 15일 02:00PM ~ 02:15AM
+  - 2024년 10월 15일 02:00PM ~ 02:15PM
   - 문제 유형: 구현
   - [문제 설명](https://20240228.tistory.com/336)
 - 2개 이하로 다른 비트
   - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/77885)
   - 월간 코드 챌린지 시즌2 
   - 완료한 사람: 8,188명	정답률: 55%
-  - 2024년 10월 16일 02:00PM ~ 02:40AM
+  - 2024년 10월 16일 02:00PM ~ 02:40PM
   - 문제 유형: 구현
-  - [문제 설명](https://20240228.tistory.com/336)
-
+  - [문제 설명](https://20240228.tistory.com/337)
+- 문자열 압축
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/60057)
+  - 2020 KAKAO BLIND RECRUITMENT
+  - 완료한 사람: 30,766명	 정답률: 43%
+  - 2024년 10월 16일 03:30PM ~ 04:01PM
+  - 문제 유형: 구현
+  - [문제 설명](https://20240228.tistory.com/338)
 
 
 
