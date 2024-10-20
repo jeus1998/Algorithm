@@ -480,7 +480,13 @@
   - 2024년 10월 19일 06:00PM ~ 06:54PM 
   - 문제 유형: DP
   - [문제 설명](https://20240228.tistory.com/348)  
+- 디스크 컨트롤러
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42627)
+  - 힙(Heap)
+  - 완료한 사람: 20,199명  정답률: 45%
+  - 2024년 10월 20일 01:00PM ~ 01:29PM 
+  - 문제 유형: 우선순위 큐
+  - [문제 설명](https://20240228.tistory.com/349)  
 
-
-
+  
 ### LEVEL4
