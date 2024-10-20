@@ -469,10 +469,17 @@
 - 2차원 동전 뒤집기
   - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/131703)
   - 연습문제
-  - 완료한 사람: 976명	정답률: 24%
+  - 완료한 사람: 976명   정답률: 24%
   - 2024년 10월 07일 12:00PM ~ 12:42PM 
   - 문제 유형: 백트래킹
   - [문제 설명](https://20240228.tistory.com/311)  
+- GPS
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/1837)
+  - 2017 카카오코드 본선 
+  - 완료한 사람: 735명  정답률: 14%
+  - 2024년 10월 19일 06:00PM ~ 06:54PM 
+  - 문제 유형: DP
+  - [문제 설명](https://20240228.tistory.com/348)  
 
 
 
