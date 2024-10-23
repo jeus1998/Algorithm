@@ -501,6 +501,12 @@
   - 2024년 10월 22일 02:55PM ~ 03:20PM 
   - 문제 유형: 구현(수학)
   - [문제 설명](https://20240228.tistory.com/353)   
-
+- 등굣길
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42898)
+  - 동적계획법(Dynamic Programming)
+  - 완료한 사람: 18,666명	  정답률: 59%
+  - 2024년 10월 23일 12:45PM ~ 01:00PM 
+  - 문제 유형: DP 
+  - [문제 설명](https://20240228.tistory.com/356)  
 
 ### LEVEL4
