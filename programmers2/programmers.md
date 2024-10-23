@@ -515,6 +515,13 @@
   - 2024년 10월 23일 03:05PM ~ 03:50PM 
   - 문제 유형: 투포인터  
   - [문제 설명](https://20240228.tistory.com/358)  
+- 카드 짝 맞추기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/72415)
+  - 2021 KAKAO BLIND RECRUITMENT 
+  - 완료한 사람: 2,100명	정답률: 19%
+  - 2024년 10월 23일 05:10PM ~ 06:30PM 
+  - 문제 유형: 완전탐색 + 구현 
+  - [문제 설명](https://20240228.tistory.com/359)  
 
 
 
