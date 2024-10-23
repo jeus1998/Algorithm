@@ -522,6 +522,14 @@
   - 2024년 10월 23일 05:10PM ~ 06:30PM 
   - 문제 유형: 완전탐색 + 구현 
   - [문제 설명](https://20240228.tistory.com/359)  
+- 블록 이동하기
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/60063)
+  - 2020 KAKAO BLIND RECRUITMENT 
+  - 완료한 사람: 4,032명	정답률: 26%
+  - 2024년 10월 23일 08:10PM ~ 09:30PM 
+  - 문제 유형: 구현 
+  - [문제 설명](https://20240228.tistory.com/360)  
+
 
 
 
