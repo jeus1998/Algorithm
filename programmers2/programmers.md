@@ -529,8 +529,13 @@
   - 2024년 10월 23일 08:10PM ~ 09:30PM 
   - 문제 유형: 구현 
   - [문제 설명](https://20240228.tistory.com/360)  
-
-
+- [1차] 셔틀버스
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/17678)
+  - 2018 KAKAO BLIND RECRUITMENT 
+  - 완료한 사람: 7,146명	정답률: 43%
+  - 2024년 10월 24일 08:20PM ~ 08:48PM 
+  - 문제 유형: 그리디 
+  - [문제 설명](https://20240228.tistory.com/361)  
 
 
 ### LEVEL4
