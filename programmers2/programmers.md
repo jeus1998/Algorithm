@@ -571,6 +571,12 @@
   - 2024년 10월 30일 04:10PM ~ 04:30PM 
   - 문제 유형: 구현 
   - [문제 설명](https://20240228.tistory.com/377)  
-
+- N으로 표현
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42895)
+  - 동적계획법(Dynamic Programming)
+  - 완료한 사람: 16,597명	 정답률: 28%
+  - 2024년 10월 30일 04:32PM ~ 05:01PM 
+  - 문제 유형: 완전탐색 + dp 메모제이션
+  - [문제 설명](https://20240228.tistory.com/378)  
 
 ### LEVEL4
