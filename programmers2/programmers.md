@@ -564,6 +564,13 @@
   - 2024년 10월 30일 04:00PM ~ 04:10PM 
   - 문제 유형: dp 다이나믹 프로그래밍
   - [문제 설명](https://20240228.tistory.com/376)  
+- 기지국 설치
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12979)
+  - Summer/Winter Coding(~2018)
+  - 완료한 사람: 7,327명	정답률: 55%
+  - 2024년 10월 30일 04:10PM ~ 04:30PM 
+  - 문제 유형: 구현 
+  - [문제 설명](https://20240228.tistory.com/377)  
 
 
 ### LEVEL4
