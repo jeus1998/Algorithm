@@ -557,6 +557,13 @@
   - 2024년 10월 28일 05:20PM ~ 05:45PM 
   - 문제 유형: 이분 탐색 
   - [문제 설명](https://20240228.tistory.com/372)  
+- 정수 삼각형
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/43105)
+  - 동적계획법(Dynamic Programming)
+  - 완료한 사람: 28,414명	 정답률: 62%
+  - 2024년 10월 30일 04:00PM ~ 04:10PM 
+  - 문제 유형: dp 다이나믹 프로그래밍
+  - [문제 설명](https://20240228.tistory.com/376)  
 
 
 ### LEVEL4
