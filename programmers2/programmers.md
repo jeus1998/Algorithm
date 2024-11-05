@@ -585,6 +585,13 @@
   - 2024년 11월 03일 04:46PM ~ 05:21PM 
   - 문제 유형: 그리디? 구현?
   - [문제 설명](https://20240228.tistory.com/387)  
+- 파괴되지 않은 건물
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/92344)
+  - 2022 KAKAO BLIND RECRUITMENT
+  - 완료한 사람: 5,266명	정답률: 41%
+  - 2024년 11월 05일 05:30PM ~ 06:42PM 
+  - 문제 유형: 누적합 
+  - [문제 설명](https://20240228.tistory.com/389)  
 
 
 
