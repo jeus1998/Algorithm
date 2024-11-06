@@ -592,6 +592,13 @@
   - 2024년 11월 05일 05:30PM ~ 06:42PM 
   - 문제 유형: 누적합 
   - [문제 설명](https://20240228.tistory.com/389)  
+- 매칭 점수
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42893)
+  - 2019 KAKAO BLIND RECRUITMENT
+  - 완료한 사람: 2,420명	정답률: 21%
+  - 2024년 11월 06일 04:30PM ~ 05:46PM 
+  - 문제 유형: 정규 표현식 + 구현 
+  - [문제 설명](https://20240228.tistory.com/392)  
 
 
 
