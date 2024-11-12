@@ -364,6 +364,13 @@
   - 2024년 11월 11일 04:25PM ~ 04:32PM
   - 문제 유형: 구현 
   - [문제 설명](https://20240228.tistory.com/400)
+- 전화번호 목록
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42577)
+  - 해시 
+  - 완료한 사람: 64,684명	정답률: 63%
+  - 2024년 11월 12일 02:35PM ~ 02:40PM
+  - 문제 유형: 해시
+  - [문제 설명](https://20240228.tistory.com/402)
 
   
 ### LEVEL3
