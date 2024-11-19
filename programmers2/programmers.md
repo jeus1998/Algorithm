@@ -371,6 +371,13 @@
   - 2024년 11월 12일 02:35PM ~ 02:40PM
   - 문제 유형: 해시
   - [문제 설명](https://20240228.tistory.com/402)
+- JadenCase 문자열 만들기 
+  - [프로그래머스 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12951)
+  - 연습문제 
+  - 완료한 사람: 37,514명	정답률: 78%
+  - 2024년 11월 19일 09:00PM ~ 09:05PM
+  - 문제 유형: 구현(문자열)
+  - [문제 설명](https://20240228.tistory.com/419)
 
   
 ### LEVEL3
