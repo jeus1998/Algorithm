@@ -30,24 +30,17 @@ public class BOJ_2607 {
             int secondSize = second.length();
             int size = Math.abs(firstSize - secondSize); // 두 단어 길이 차이
             if(size > 1) continue;
-            if(size == 1){
-                int cnt = 0;
-                for (int j = 0; j < 26; j++) {
-                    cnt += Math.abs(firstArr[j] - secondArr[j]);
-                }
-                if(cnt == 1){
-                    answer++;
-                }
+            int cnt = 0;
+            for (int j = 0; j < 26; j++) {
+                cnt += Math.abs(firstArr[j] - secondArr[j]);
+            }
+            if(size == 1 && cnt == 1){
+                answer++;
                 continue;
             }
-            int cnt = 0;
-            int maxDiff = 0;
-            for (int j = 0; j < 26; j++) {
-                int temp = Math.abs(firstArr[j] - secondArr[j]);
-                maxDiff = Math.max(maxDiff, temp);
-                cnt += temp;
-            }
-            if(maxDiff <= 1 && cnt <= 2) answer++;
+
+            if(cnt <= 2) answer++;
+
         }
         System.out.println(answer);
     }
