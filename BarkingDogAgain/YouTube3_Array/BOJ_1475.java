@@ -13,7 +13,7 @@ public class BOJ_1475 {
 		for(int i = 0; i < input.length(); i++) {
 			memo[input.charAt(i) - '0']++;
 		}
-		int temp = (memo[6] + memo[9]) / 2;
+		int temp = ((memo[6] + memo[9])) / 2 + ((memo[6] + memo[9]) % 2 == 0 ? 0 : 1);
 		memo[6] = temp; memo[9] = temp;
 		int max = 0;
 		for(int i = 0; i < 10; i++) {
